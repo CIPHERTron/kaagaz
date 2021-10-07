@@ -1,0 +1,19 @@
+{
+  "author": {
+    "name": "Kaagaz",
+    "title": "Kaagaz by D361",
+    "twitterHandle": "@PritishSamal11",
+    "description": "Kaagaz by D361"
+  },
+  "site": {
+    "siteUrl": "https://github.com/opencodenitr/project-calliope",
+    "siteName": "Kaagaz - by D361",
+    "siteTitle": "Kaagaz",
+    "siteDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "siteImage": "../public/Logo.png",
+    "intro": "Kaagaz",
+    "keywords": "Design, Magazine, Articles"
+  },
+  "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+}
+
