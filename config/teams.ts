@@ -4,7 +4,7 @@ export const aboutContent =
 export const eighteen = [
   {
     name: 'John Doe',
-    image: 'avatar.jpeg',
+    image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2ixYG7ZX2imsJuv7oA2fWjYQeiq52-hmdPa7D-Z3xjeUx24__2EVCF3NYXqGeq9r2iY&usqp=CAU',
     eb: true,
     por: 'Editor-in-Chief',
   },
