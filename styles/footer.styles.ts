@@ -41,7 +41,6 @@ export const StyledFooterSection = styled.footer`
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    border-left: 2px solid lightgray;
     width: 100%;
 
     & > div {
@@ -85,7 +84,6 @@ export const StyledFooterSection = styled.footer`
     justify-content: center;
     align-items: center;
     width: 100%;
-    border-left: 2px solid lightgray;
 
     & > p {
       font-size: x-large;
@@ -110,7 +108,6 @@ export const StyledFooterSection = styled.footer`
     }
 
     .footer-social {
-      border: none;
       margin-bottom: 15px;
       align-items: flex-start;
 
@@ -121,7 +118,6 @@ export const StyledFooterSection = styled.footer`
 
     .footer-links {
       align-items: flex-start;
-      border: none;
       margin-bottom: 15px;
     }
   }
