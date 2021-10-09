@@ -17,14 +17,7 @@ export const Heading = styled.h3`
 
 export const ButtonContainer = styled.div`
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-
-  @media (max-width: 854px) {
-    grid-template-columns: repeat(3, 1fr);
-  }
-  @media (max-width: 532px) {
-    grid-template-columns: repeat(2, 1fr);
-  }
+  grid-template-columns: repeat(2, 1fr);
 `;
 
 export const Button = styled.button`
