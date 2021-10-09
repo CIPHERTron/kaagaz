@@ -2,6 +2,11 @@ import styled from '@emotion/styled';
 import { css } from '@emotion/core';
 import { GitHub, Codepen, Twitter, Linkedin } from 'react-feather';
 
+export const Container = styled.div`
+  width: 100%;
+  padding: 0 20px;
+`;
+
 export const StyledFooterSection = styled.footer`
   .footer-box {
     display: grid;

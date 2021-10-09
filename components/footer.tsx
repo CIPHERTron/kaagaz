@@ -1,7 +1,6 @@
 import React from 'react';
-import { StyledFooterSection } from '../styles/footer.styles';
+import { StyledFooterSection, Container } from '../styles/footer.styles';
 import { Icons } from '.';
-import { Container } from './container';
 import { StyledLogo } from '../styles/nav.styles';
 
 const Footer = () => (
