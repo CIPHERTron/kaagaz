@@ -1,30 +1,29 @@
 import React, { useState } from 'react';
 import { Layout, Container, ProfileCard } from '../components';
 import { TeamContainer, Heading, ButtonContainer, Button } from '../styles/team.styles';
-import { eighteen, nineteen } from '../config/teams';
+import { nineteen, twenty } from '../config/teams';
 
 const Teams = () => {
-  const [selected, setSelected] = useState(eighteen);
+  const [selected, setSelected] = useState(twenty);
   const eb = selected.filter((member) => member.eb);
   const team = selected.filter((member) => !member.eb);
 
-  const handleClick = (e) => {
-    e.preventDefault();
-    setSelected(eighteen);
-  };
   const handleNineteen = (e) => {
     e.preventDefault();
     setSelected(nineteen);
+  };
+
+  const handleTwenty = (e) => {
+    e.preventDefault();
+    setSelected(twenty);
   };
 
   return (
     <Layout pathname={'/team'} pageTitle='The Team' pageDescription='Kaagaz Team'>
       <Container>
         <ButtonContainer>
-          <Button onClick={handleClick}>2018-19</Button>
+          <Button onClick={handleTwenty}>2020-21</Button>
           <Button onClick={handleNineteen}>2019-20</Button>
-          <Button>2020-21</Button>
-          <Button>2020-21</Button>
         </ButtonContainer>
         <Heading>Core Team</Heading>
         <TeamContainer>
