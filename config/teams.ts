@@ -6,7 +6,7 @@ export const instaAccountLink = 'https://www.instagram.com/d361official/';
 
 export const twenty = [
   {
-    name: 'Smithraj',
+    name: 'Smithraj Karna',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788742/Team%202020-21/Post%20holder/smithraj_siqi1a.jpg',
     eb: true,
