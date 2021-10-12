@@ -93,10 +93,6 @@ export const StyledFooterSection = styled.footer`
 
     & > a {
       text-decoration: none;
-
-      &:hover {
-        color: #a0a0a0;
-      }
     }
   }
 
