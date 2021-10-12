@@ -44,7 +44,7 @@ const Nav = () => {
                 <AboutDropdown />
               </li>
               <li className='navLinkItem'>
-                <Link href='/comics'>
+                <Link href='/legacy'>
                   <a className='navLink'>Legacy</a>
                 </Link>
               </li>
