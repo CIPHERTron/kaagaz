@@ -6,30 +6,26 @@ const Comics = () => {
   return (
     <Layout pathname={'/comics'} pageTitle='Comics' pageDescription='Comics and stuff!'>
       <Container>
-        <p className='page-intro'>Comics Page</p>
         <BookAnimation
-          src='#'
+          src='/comics/d361-capture-2020'
           btnText='Read Comic'
           color='blue'
-          source='Fivera.net'
-          author='Nikola Tesla'
-          desc='Website dedicated to sharing resources'
+          source='Capture 2020'
+          author='Abhrant Panigrahi and Subham Sai Behera'
         />
         <BookAnimation
-          src='#'
+          src='/comics/d361-colours-2019'
           btnText='Read Comic'
           color='blue'
-          source='Fivera.net'
-          author='Nikola Tesla'
-          desc='Website dedicated to sharing resources'
+          source='Colours 2019'
+          author='Aalisha Padhy and Navneet Reddy'
         />
         <BookAnimation
-          src='#'
+          src='/comics/d361-war-and-peace-2018'
           btnText='Read Comic'
           color='blue'
-          source='Fivera.net'
-          author='Nikola Tesla'
-          desc='Website dedicated to sharing resources'
+          source='War and Peace 2018'
+          author='Partha Dhal'
         />
       </Container>
     </Layout>
