@@ -20,7 +20,7 @@ const BookAnimation = ({ src, btnText, color, source, author }) => {
             <ul className='page'>
               <li></li>
               <li>
-                <a className='btn' href={src} target='_blank'>
+                <a className='btn' href={src}>
                   {btnText}
                 </a>
               </li>

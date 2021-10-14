@@ -163,6 +163,17 @@ figcaption {
   max-width: 50em;
 }
 
+canvas {
+  width: 100% !important;
+  height: auto !important ;
+  margin: auto;
+}
+
+.react-pdf__Page__textContent {
+  width: 100% !important;
+  height: auto !important ;
+}
+
 @media all and (min-width: 1330px) {
   :root {
     font-size: 1.2em;
