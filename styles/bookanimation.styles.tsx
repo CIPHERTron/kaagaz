@@ -557,9 +557,9 @@ export const BookComponent = styled.div`
     padding-left: 40px;
     text-align: left;
     position: absolute;
-    top: 0%;
+    top: 30%;
     left: 160px;
-    width: 310px;
+    width: 410px;
 
     & h1 {
       margin: 0;

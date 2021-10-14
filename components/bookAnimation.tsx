@@ -1,7 +1,7 @@
 import React from 'react';
 import { BookComponent } from '../styles/bookanimation.styles';
 
-const BookAnimation = ({ src, btnText, color, source, author, desc }) => {
+const BookAnimation = ({ src, btnText, color, source, author }) => {
   return (
     <BookComponent>
       <ul className='align'>
@@ -38,9 +38,8 @@ const BookAnimation = ({ src, btnText, color, source, author, desc }) => {
               <li></li>
             </ul>
             <figcaption>
-              <h1>{source}</h1>
+              <h2>{source}</h2>
               <span>By {author}</span>
-              <p>{desc}</p>
             </figcaption>
           </figure>
         </li>
