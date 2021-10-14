@@ -69,7 +69,7 @@ export const BookComponent = styled.div`
     -moz-transition: all 0.8s ease, z-index 0.6s;
     transition: all 0.8s ease, z-index 0.6s;
 
-    & li:first-child {
+    & li:first-of-type {
       background-color: #eee;
       -webkit-backface-visibility: hidden;
       -moz-backface-visibility: hidden;
@@ -83,14 +83,14 @@ export const BookComponent = styled.div`
       transform: translateZ(2px);
     }
 
-    & li:last-child {
+    & li:last-of-type {
       background: #fffbec;
       -webkit-transform: rotateY(180deg) translateZ(2px);
       -moz-transform: rotateY(180deg) translateZ(2px);
       transform: rotateY(180deg) translateZ(2px);
     }
 
-    & li:first-child:after {
+    & li:first-of-type:after {
       width: 4px;
       height: 100%;
       -webkit-transform: rotateY(90deg) translateZ(-2px) translateX(2px);
@@ -98,7 +98,7 @@ export const BookComponent = styled.div`
       transform: rotateY(90deg) translateZ(-2px) translateX(2px);
     }
 
-    & li:first-child:before {
+    & li:first-of-type:before {
       width: 4px;
       height: 100%;
       -webkit-transform: rotateY(90deg) translateZ(158px) translateX(2px);
@@ -106,7 +106,7 @@ export const BookComponent = styled.div`
       transform: rotateY(90deg) translateZ(158px) translateX(2px);
     }
 
-    & li:last-child:after {
+    & li:last-of-type:after {
       width: 4px;
       height: 160px;
       -webkit-transform: rotateX(90deg) rotateZ(90deg) translateZ(80px) translateX(-2px)
@@ -116,7 +116,7 @@ export const BookComponent = styled.div`
       transform: rotateX(90deg) rotateZ(90deg) translateZ(80px) translateX(-2px) translateY(-78px);
     }
 
-    & li:last-child:before {
+    & li:last-of-type:before {
       width: 4px;
       height: 160px;
       box-shadow: 0px 0px 30px 5px #333;
@@ -133,21 +133,21 @@ export const BookComponent = styled.div`
     -moz-transform: rotateY(-15deg) translateZ(-8px);
     transform: rotateY(-15deg) translateZ(-8px);
 
-    & li:first-child {
+    & li:first-of-type {
       background: #fffbec;
       -webkit-transform: translateZ(2px);
       -moz-transform: translateZ(2px);
       transform: translateZ(2px);
     }
 
-    & li:last-child {
+    & li:last-of-type {
       background: #fffbec;
       -webkit-transform: translateZ(-2px);
       -moz-transform: translateZ(-2px);
       transform: translateZ(-2px);
     }
 
-    & li:first-child:after {
+    & li:first-of-type:after {
       width: 4px;
       height: 100%;
       -webkit-transform: rotateY(90deg) translateZ(-2px) translateX(2px);
@@ -155,7 +155,7 @@ export const BookComponent = styled.div`
       transform: rotateY(90deg) translateZ(-2px) translateX(2px);
     }
 
-    & li:first-child:before {
+    & li:first-of-type:before {
       width: 4px;
       height: 100%;
       -webkit-transform: rotateY(90deg) translateZ(158px) translateX(2px);
@@ -163,7 +163,7 @@ export const BookComponent = styled.div`
       transform: rotateY(90deg) translateZ(158px) translateX(2px);
     }
 
-    & li:last-child:after {
+    & li:last-of-type:after {
       width: 4px;
       height: 160px;
       -webkit-transform: rotateX(90deg) rotateZ(90deg) translateZ(80px) translateX(2px)
@@ -173,7 +173,7 @@ export const BookComponent = styled.div`
       transform: rotateX(90deg) rotateZ(90deg) translateZ(80px) translateX(2px) translateY(-78px);
     }
 
-    & li:last-child:before {
+    & li:last-of-type:before {
       width: 4px;
       height: 160px;
       box-shadow: 10px -1px 80px 20px #666;
@@ -186,21 +186,21 @@ export const BookComponent = styled.div`
   }
 
   .book_spine {
-    & li:first-child {
+    & li:first-of-type {
       background: #eee;
       -webkit-transform: translateZ(2px);
       -moz-transform: translateZ(2px);
       transform: translateZ(2px);
     }
 
-    & li:last-child {
+    & li:last-of-type {
       background: #333;
       -webkit-transform: translateZ(-2px);
       -moz-transform: translateZ(-2px);
       transform: translateZ(-2px);
     }
 
-    & li:first-child:after {
+    & li:first-of-type:after {
       width: 4px;
       height: 100%;
       -webkit-transform: rotateY(90deg) translateZ(-2px) translateX(2px);
@@ -208,7 +208,7 @@ export const BookComponent = styled.div`
       transform: rotateY(90deg) translateZ(-2px) translateX(2px);
     }
 
-    & li:first-child:before {
+    & li:first-of-type:before {
       width: 4px;
       height: 100%;
       -webkit-transform: rotateY(-90deg) translateZ(-12px);
@@ -216,7 +216,7 @@ export const BookComponent = styled.div`
       transform: rotateY(-90deg) translateZ(-12px);
     }
 
-    & li:last-child:after {
+    & li:last-of-type:after {
       width: 4px;
       height: 16px;
       -webkit-transform: rotateX(90deg) rotateZ(90deg) translateZ(8px) translateX(2px)
@@ -225,7 +225,7 @@ export const BookComponent = styled.div`
       transform: rotateX(90deg) rotateZ(90deg) translateZ(8px) translateX(2px) translateY(-6px);
     }
 
-    & li:last-child:before {
+    & li:last-of-type:before {
       width: 4px;
       height: 16px;
       box-shadow: 5px -1px 100px 40px rgba(0, 0, 0, 0.2);
@@ -237,18 +237,18 @@ export const BookComponent = styled.div`
     }
   }
 
-  .hardcover_front li:first-child:after,
-  .hardcover_front li:first-child:before,
-  .hardcover_front li:last-child:after,
-  .hardcover_front li:last-child:before,
-  .hardcover_back li:first-child:after,
-  .hardcover_back li:first-child:before,
-  .hardcover_back li:last-child:after,
-  .hardcover_back li:last-child:before,
-  .book_spine li:first-child:after,
-  .book_spine li:first-child:before,
-  .book_spine li:last-child:after,
-  .book_spine li:last-child:before {
+  .hardcover_front li:first-of-type:after,
+  .hardcover_front li:first-of-type:before,
+  .hardcover_front li:last-of-type:after,
+  .hardcover_front li:last-of-type:before,
+  .hardcover_back li:first-of-type:after,
+  .hardcover_back li:first-of-type:before,
+  .hardcover_back li:last-of-type:after,
+  .hardcover_back li:last-of-type:before,
+  .book_spine li:first-of-type:after,
+  .book_spine li:first-of-type:before,
+  .book_spine li:last-of-type:after,
+  .book_spine li:last-of-type:before {
     background: #999;
   }
 
@@ -292,7 +292,7 @@ export const BookComponent = styled.div`
       transition-timing-function: ease;
     }
 
-    & li:nth-child(1) {
+    & li::nth-of-type(1) {
       -webkit-transform: rotateY(-28deg);
       -moz-transform: rotateY(-28deg);
       transform: rotateY(-28deg);
@@ -301,7 +301,7 @@ export const BookComponent = styled.div`
       transition-duration: 0.6s;
     }
 
-    & li:nth-child(2) {
+    & li::nth-of-type(2) {
       -webkit-transform: rotateY(-30deg);
       -moz-transform: rotateY(-30deg);
       transform: rotateY(-30deg);
@@ -310,7 +310,7 @@ export const BookComponent = styled.div`
       transition-duration: 0.6s;
     }
 
-    & li:nth-child(3) {
+    & li::nth-of-type(3) {
       -webkit-transform: rotateY(-32deg);
       -moz-transform: rotateY(-32deg);
       transform: rotateY(-32deg);
@@ -319,7 +319,7 @@ export const BookComponent = styled.div`
       transition-duration: 0.4s;
     }
 
-    & li:nth-child(4) {
+    & li::nth-of-type(4) {
       -webkit-transform: rotateY(-34deg);
       -moz-transform: rotateY(-34deg);
       transform: rotateY(-34deg);
@@ -328,7 +328,7 @@ export const BookComponent = styled.div`
       transition-duration: 0.5s;
     }
 
-    & li:nth-child(5) {
+    & li::nth-of-type(5) {
       -webkit-transform: rotateY(-36deg);
       -moz-transform: rotateY(-36deg);
       transform: rotateY(-36deg);
@@ -362,18 +362,18 @@ export const BookComponent = styled.div`
   }
 
   /* thickness of cover */
-  .hardcover_front li:first-child:after,
-  .hardcover_front li:first-child:before,
-  .hardcover_front li:last-child:after,
-  .hardcover_front li:last-child:before,
-  .hardcover_back li:first-child:after,
-  .hardcover_back li:first-child:before,
-  .hardcover_back li:last-child:after,
-  .hardcover_back li:last-child:before,
-  .book_spine li:first-child:after,
-  .book_spine li:first-child:before,
-  .book_spine li:last-child:after,
-  .book_spine li:last-child:before {
+  .hardcover_front li:first-of-type:after,
+  .hardcover_front li:first-of-type:before,
+  .hardcover_front li:last-of-type:after,
+  .hardcover_front li:last-of-type:before,
+  .hardcover_back li:first-of-type:after,
+  .hardcover_back li:first-of-type:before,
+  .hardcover_back li:last-of-type:after,
+  .hardcover_back li:last-of-type:before,
+  .book_spine li:first-of-type:after,
+  .book_spine li:first-of-type:before,
+  .book_spine li:last-of-type:after,
+  .book_spine li:last-of-type:before {
     position: absolute;
     top: 0;
     left: 0;
@@ -395,7 +395,7 @@ export const BookComponent = styled.div`
       z-index: 0;
     }
 
-    &:hover > .page li:nth-child(1) {
+    &:hover > .page li::nth-of-type(1) {
       -webkit-transform: rotateY(-30deg);
       -moz-transform: rotateY(-30deg);
       transform: rotateY(-30deg);
@@ -404,7 +404,7 @@ export const BookComponent = styled.div`
       transition-duration: 1.5s;
     }
 
-    &:hover > .page li:nth-child(2) {
+    &:hover > .page li::nth-of-type(2) {
       -webkit-transform: rotateY(-35deg);
       -moz-transform: rotateY(-35deg);
       transform: rotateY(-35deg);
@@ -413,7 +413,7 @@ export const BookComponent = styled.div`
       transition-duration: 1.8s;
     }
 
-    &:hover > .page li:nth-child(3) {
+    &:hover > .page li::nth-of-type(3) {
       -webkit-transform: rotateY(-118deg);
       -moz-transform: rotateY(-118deg);
       transform: rotateY(-118deg);
@@ -422,7 +422,7 @@ export const BookComponent = styled.div`
       transition-duration: 1.6s;
     }
 
-    &:hover > .page li:nth-child(4) {
+    &:hover > .page li::nth-of-type(4) {
       -webkit-transform: rotateY(-130deg);
       -moz-transform: rotateY(-130deg);
       transform: rotateY(-130deg);
@@ -431,7 +431,7 @@ export const BookComponent = styled.div`
       transition-duration: 1.4s;
     }
 
-    &:hover > .page li:nth-child(5) {
+    &:hover > .page li::nth-of-type(5) {
       -webkit-transform: rotateY(-140deg);
       -moz-transform: rotateY(-140deg);
       transform: rotateY(-140deg);

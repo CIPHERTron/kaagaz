@@ -12,7 +12,6 @@ const Contacts = () => {
           color='blue'
           source='Fivera.net'
           author='Nikola Tesla'
-          desc='Website dedicated to sharing resources'
         />
         <BookAnimation
           src='#'
@@ -20,7 +19,6 @@ const Contacts = () => {
           color='blue'
           source='Fivera.net'
           author='Nikola Tesla'
-          desc='Website dedicated to sharing resources'
         />
       </Container>
     </Layout>
