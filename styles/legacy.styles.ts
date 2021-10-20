@@ -26,7 +26,7 @@ export const Heading = styled.h1`
   font-style: normal;
 
   @media (max-width: 769px) {
-    font-size: 84px;
+    font-size: 73px;
   }
 `;
 
