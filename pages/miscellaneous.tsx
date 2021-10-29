@@ -13,9 +13,9 @@ const Miscellaneous = ({ articles }) => {
       <Container>
         <Heading>Miscellaneous</Heading>
         <CenterElements>
-          {articles.map((article, idx) => (
-            <LegacyCard key={idx} article={article} />
-          ))}
+          {articles.map((article, idx) => {
+            if (article.category === 'misc') return <LegacyCard key={idx} article={article} />;
+          })}
         </CenterElements>
       </Container>
     </Layout>
