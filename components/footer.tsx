@@ -7,7 +7,7 @@ const Footer = () => (
   <StyledFooterSection>
     <Container className='footer-box'>
       <Container className='footer-container'>
-        <StyledLogo src='logo.png' />
+        <StyledLogo src='https://raw.githubusercontent.com/CIPHERTron/kaagaz/main/public/logo.png' />
         <p>
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam quibusdam quaerat nisi?
           Adipisci expedita voluptates mollitia voluptatum iure. Temporibus reiciendis
