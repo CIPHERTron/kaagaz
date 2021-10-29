@@ -43,6 +43,7 @@ export const ArticleHeading = styled.h3`
 export const Anchor = styled.a`
   text-decoration: none;
   color: #000;
+  cursor: pointer;
 
   &:hover {
     text-decoration: underline;
@@ -83,4 +84,18 @@ export const Image = styled.img`
     height: 100%;
     width: auto;
   }
+`;
+
+export const Credits = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+`;
+
+export const Attribute = styled.p`
+  font-weight: 700;
+  color: #493433;
+  margin: 0;
+  padding: 0;
+  margin: 14px auto;
 `;
