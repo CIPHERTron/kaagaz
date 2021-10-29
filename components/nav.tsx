@@ -19,7 +19,7 @@ const Nav = () => {
         <nav className='navWrapper'>
           <div className='navLeft'>
             <Link href='/'>
-              <StyledLogo src='logo.png' />
+              <StyledLogo src='https://raw.githubusercontent.com/CIPHERTron/kaagaz/main/public/logo.png' />
             </Link>
           </div>
 
