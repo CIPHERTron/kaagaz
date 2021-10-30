@@ -45,135 +45,134 @@ export const twenty = [
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788625/Team%202020-21/Abhranta_Panigrahi_wfzzew.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
-    {
+  {
     name: 'Aniket Konnur',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788626/Team%202020-21/Aniket_Konnur_zsocdx.png',
     eb: false,
-    por: '',
+    por: 'member',
   },
-   {
+  {
     name: 'Anushka Pandey',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788627/Team%202020-21/Anushka_Pandey_jb2aul.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
-   {
+  {
     name: 'Aparna Bhuyan',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788626/Team%202020-21/Aparna_Bhuyan_fwffbk.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
-    {
+  {
     name: 'Arpita Mohapatra',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788626/Team%202020-21/Arpita_Mohapatra_kiqden.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
-   {
+  {
     name: 'Chris Cherian',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788628/Team%202020-21/Chris_Cherian_jqumhi.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Gaurav Gupta',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788626/Team%202020-21/Gaurav_Gupta_n708gq.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
-   {
+  {
     name: 'Jasmin Priya',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788628/Team%202020-21/Jasmin_Priya_dtkc3s.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Kiran Sahu',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788627/Team%202020-21/Kiran_Sahu_wlvatu.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Leo Raphael',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788627/Team%202020-21/Leo_Raphael_vumdqg.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
-   {
+  {
     name: 'Millen Samantaray',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788627/Team%202020-21/Millen_Samantaray_svpyfb.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
-   {
+  {
     name: 'Muskan',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788629/Team%202020-21/Muskan_uayrlw.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
-   {
+  {
     name: 'Nikita Thakur',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788629/Team%202020-21/Nikita_Thakur_nveooy.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Rashmi Vishwakarma',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788629/Team%202020-21/Rashmi_Vishwakarma_bwiajx.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Satyaprakash Karsharma',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788631/Team%202020-21/Satyaprakash_Karsharma_jlca98.png',
     eb: false,
-    por: '',
+    por: 'member',
   },
-   {
+  {
     name: 'Satyapriya Kanungo',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788631/Team%202020-21/Satyapriya_Kanungo_uqxjui.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
-    {
+  {
     name: 'Shivangi Baral',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788631/Team%202020-21/Shivangi_Baral_eklamt.png',
     eb: false,
-    por: '',
+    por: 'member',
   },
-   {
+  {
     name: 'Swagat Subhakanta Das',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788630/Team%202020-21/Swagat_Das_frppux.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Yogita Siwach',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627788631/Team%202020-21/Yogita_Siwach_t3nj3u.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
-  
 ];
 
 export const nineteen = [
@@ -189,7 +188,7 @@ export const nineteen = [
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816934/Team%202019-20/abhranta_panigrahi_tex6xt.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Adesh Rohan Mishra',
@@ -203,14 +202,14 @@ export const nineteen = [
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816928/Team%202019-20/Biswajit_Choudhury_lpnfpw.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Debabrata Malik',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816935/Team%202019-20/DebabrataMalik_ddkhcf.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Kamlesh Kumar Sahoo',
@@ -231,83 +230,83 @@ export const nineteen = [
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627817232/Team%202019-20/lafith_mattara_vm8xvj.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Satyajeet Behera',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627817232/Team%202019-20/satyajeet_behera_gc1iei.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Mahesh',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627817232/Team%202019-20/mahesh_yv0xgk.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Susank Prakash',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627817099/Team%202019-20/susank_prakash_jyulo0.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Parul Rath',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627817097/Team%202019-20/parul_rath_xynttn.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Yamir',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816956/Team%202019-20/yamir_ul2vvm.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Smruti Biswal',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816948/Team%202019-20/Smruti_Biswal_t1jojb.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Subham',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816944/Team%202019-20/Subham_dlhukb.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Rama',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816939/Team%202019-20/rama_p4wagn.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Shreya Srivastava',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816938/Team%202019-20/Shreya_Srivastava_mokauh.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Deepshri Sharma',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816933/Team%202019-20/Deepshri_Sharma_oulpm5.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
   {
     name: 'Prithu Prasad',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816930/Team%202019-20/Prithu_Prasad_vqpans.jpg',
     eb: false,
-    por: '',
+    por: 'member',
   },
 ];
