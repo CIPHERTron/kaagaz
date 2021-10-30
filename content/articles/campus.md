@@ -1,10 +1,11 @@
 ---
 title: Campus
 description: 'A peculiar sense of nostalgia warms me up as the rickshaw makes its way through campus in the dead quiet of the...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019451/Articles%20Cover%20Image/Back_to_the_Past_Campus_ei5eck.jpg'
 content: 'Aniketh'
 design: 'Satyapriya Kanongo'
 slug: 'campus'
-category: stories
+category: misc
 ---
 
 _(Part 2 of 6: Back to the Past)_

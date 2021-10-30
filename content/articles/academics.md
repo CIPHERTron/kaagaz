@@ -1,10 +1,11 @@
 ---
 title: Academics
 description: 'The alarm buzzes for the umpteenth time as I wake up with lazy eyes, clearly in want of more rest. I find myself...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019453/Articles%20Cover%20Image/Back_to_the_Past_Academics_cxjax0.png'
 content: 'Jasmin'
 design: 'Satyaprakash Karsharma'
 slug: 'academics'
-category: stories
+category: misc
 ---
 
 _(Part 3 of 6: Back to the Past)_

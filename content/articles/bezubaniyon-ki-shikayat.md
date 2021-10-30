@@ -1,6 +1,7 @@
 ---
 title: Bezubaniyon ki Shikayat
 description: 'ये कोई किस्सा दासतां या कहानी नहीं है, एक शिकायत है बेज़ुबानों की, इसलिए मेरी ज़बानी है।...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019456/Articles%20Cover%20Image/Bezubaniyon_ki_Shikayat_kt8yfb.png'
 content: 'Yamir'
 design: 'Satyaprakash Karsharma'
 slug: 'bezubaniyon-ki-shikayat'

@@ -1,10 +1,11 @@
 ---
 title: The Analyst
 description: 'It’s October 2008, the US stock market has crashed, most investors are going bankrupt, hundreds of...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1633980964/Articles%20Cover%20Image/The_Analyst_u4nwfr.jpg'
 content: 'Leo Rodrigues'
 design: 'Satyaprakash'
 slug: 'the-analyst'
-category: misc
+category: stories
 ---
 
 **It’s October 2008, the US stock market has crashed, most investors are going bankrupt, hundreds of thousands of employees are losing jobs as firms can no longer afford to pay them their wages, the government (Federal Reserve) has just started bailing out companies to save them from impending disaster.**

@@ -1,10 +1,11 @@
 ---
 title: Stairs
 description: 'The final buzz, the vibrating phone lights up in the dimly lit corridor as I trudge my way back to my room...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634028945/Articles%20Cover%20Image/Back_to_the_Past_Stairs_ec7zyq.jpg'
 content: 'Leo'
 design: 'Swagat'
 slug: 'stairs'
-category: stories
+category: misc
 ---
 
 _(Part 5 of 6: Back to the Past)_
