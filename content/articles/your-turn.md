@@ -1,10 +1,11 @@
 ---
 title: Your Turn
 description: 'I met her during my official release of the third book in the series ‘Canvas’ that I had been continuing...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019451/Articles%20Cover%20Image/Your_Turn_ijvokh.jpg'
 content: 'Shreya'
 design: 'Biswajit'
 slug: 'your-turn'
-category: misc
+category: stories
 ---
 
 _She goes where the story goes. She has traveled countries, swam through rivers, fluttered with butterflies and played with animals. On her way, she met new people to tell her story. Now, she stands with me as I write this letter._

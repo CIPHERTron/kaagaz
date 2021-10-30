@@ -1,10 +1,11 @@
 ---
 title: Clocked Down
 description: 'It’s been over 14 years since poppa left. Left for good, cuz I’m sure a man like him went to...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1633980955/Articles%20Cover%20Image/Clocked_Down_cwdh99.jpg'
 content: 'Aniket'
 design: 'Millen'
 slug: 'clocked-down'
-category: misc
+category: stories
 ---
 
 It’s been over 14 years since poppa left. Left for good, cuz I’m sure a man like him went to God’s good heaven. He left, with many questions and few answers. Too many why’s for my liking. Left, too early with reasons I cannot guess but perhaps with an overwhelming sense of despair, one that’s washing over me right now.

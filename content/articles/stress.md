@@ -1,10 +1,11 @@
 ---
 title: Stress
 description: '15 assignments due, 4 backlogs, 2 grade-backs! Buzz buzz! Internship canceled...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019452/Articles%20Cover%20Image/Back_to_the_Past_Stress_ocoarz.jpg'
 content: 'Reshmi'
 design: 'Millen'
 slug: 'stress'
-category: stories
+category: misc
 ---
 
 _(Part 4 of 6: Back to the Past)_

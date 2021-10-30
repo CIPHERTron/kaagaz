@@ -1,10 +1,11 @@
 ---
 title: Exams
 description: 'Ding, Ding, Ding! With resounding clangs, the stress-inducing morning bell chimes are born. The day is...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634028945/Articles%20Cover%20Image/Back_to_the_Past_Exams_rqfdam.jpg'
 content: 'Chris Cherian'
 design: 'Satyapriya Kanungo'
 slug: 'exams'
-category: stories
+category: misc
 ---
 
 _(Part 6 of 6: Back to the Past)_

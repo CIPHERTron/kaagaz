@@ -1,6 +1,7 @@
 ---
 title: A Text From a Stranger
 description: 'No, it wasn’t raining cats and dogs. It was literally pouring in buckets. And I stood there – a des...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634018815/Articles%20Cover%20Image/A_Text_From_a_Stranger_ygysed.jpg'
 content: 'Anushka'
 design: 'Swagat'
 slug: 'a-text-from-a-stranger'

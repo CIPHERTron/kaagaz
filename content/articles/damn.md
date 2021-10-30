@@ -1,10 +1,11 @@
 ---
 title: Damn!!
 description: '“Reply to your Frankfin application”, a mail popped on my cell phone screen while I paced towards my...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634018815/Articles%20Cover%20Image/Damn_xlnocx.jpg'
 content: 'Reshmi'
 design: 'Satyaprakash'
 slug: 'damn'
-category: misc
+category: stories
 ---
 
 “Reply to your Frankfin application”, a mail popped on my cell phone screen while I paced towards my apartment, greeted by heavy rain and an over flooding crowd of people rushing past each other. It was about 11 pm and I could see nothing but people drenched in sweat and rain simultaneously, a sight no one would want to envision, but as they say, ‘It’s New York, the city that never sleeps.’

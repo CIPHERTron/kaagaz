@@ -1,10 +1,11 @@
 ---
 title: Luggage
 description: 'Luggage – check; tickets – check; keys – check; wallet – check; ID, phone, charger, power bank, laptop...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019450/Articles%20Cover%20Image/Back_to_the_Past_Luggage_jiadsq.jpg'
 content: 'Prithu'
 design: 'Swagat'
 slug: 'luggage'
-category: stories
+category: misc
 ---
 
 _(Part 1 of 6: Back to the Past)_

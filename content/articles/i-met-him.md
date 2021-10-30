@@ -1,10 +1,11 @@
 ---
 title: I Met Him
 description: 'No, it wasn’t raining cats and dogs. It was literally pouring in buckets. And I stood there – a des...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634018818/Articles%20Cover%20Image/I_Met_Him_cdi1pi.png'
 content: 'Muskan'
 design: 'Satyapriya'
 slug: 'i-met-him'
-category: misc
+category: stories
 ---
 
 No, it wasn’t raining cats and dogs. It was literally pouring in buckets. And I stood there – a desperate, lonely, over-dressed teen with a bunch of flowers, as hopelessly romantic as I could be. It had been two hours, and Martin was nowhere in sight. I gulped. He would probably never come. I definitely didn’t want my Valentines Day to be wasted because of him. I stared into the elaborately decorated Bloxham Hotels. There was just one way out- I needed to take myself on a date. A young couple brushed past me as I was busy pondering if he had actually dumped me. After all, I had been ignoring the signs for a long time now. “Never mind!” I consoled myself and headed into the hotel.

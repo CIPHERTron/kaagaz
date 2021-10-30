@@ -1,10 +1,11 @@
 ---
 title: Stuck with Michael Scott in an Elevator
 description: '“It seemed to be another frantic morning in the ironically lazy and uneventful suburban town of Scranton...'
+previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634018816/Articles%20Cover%20Image/STUCK_WITH_MICHAEL_SCOTT_IN_AN_ELEVATOR_q5pded.png'
 content: 'Chris'
 design: 'Millen'
 slug: 'stuck-with-michael-scott-in-an-elevator'
-category: misc
+category: stories
 ---
 
 It seemed to be another frantic morning in the ironically lazy and uneventful suburban town of Scranton, Pennsylvania. As usual, I went about my day, starting off with my essential dose of caffeine. On my way out of the rather serene Starbucks, I bumped into a damned skateboarding teenager who had me absolutely drenched in piping hot, sticky coffee. I hopelessly tried to dab away the stain and the stench, but time seemed to be on a mission of its own by speeding itself an entire hour! It was already 9.30 AM. I was an hour late for my first day at work! It looked like I would even set a record for getting fired before I even started my job. I thought my boss was totally going to kill me and, to add to that, I was going to look like an embarrassment unless I could somehow look like a Burberry model with this white shirt that went south. Today was just not my day!
