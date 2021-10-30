@@ -22,8 +22,8 @@ function LegacyCard({ article }) {
         <ArticleHeading>{title}</ArticleHeading>
         <Quote>{description}</Quote>
         <Credits>
-          <Attribute>Content: {content}</Attribute>
-          <Attribute>Design: {design}</Attribute>
+          {content && <Attribute>Content: {content}</Attribute>}
+          {design && <Attribute>Design: {design}</Attribute>}
         </Credits>
         <Link href={`/articles/${slug}`}>
           <Anchor rel='noreferrer noopener'>Read more...</Anchor>
