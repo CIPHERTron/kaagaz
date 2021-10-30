@@ -10,6 +10,7 @@ export const Wrapper = styled.div`
   margin: 3% auto;
   border-radius: 5px;
   box-shadow: 4px 4px 10px 0px #00000040;
+  overflow: hidden;
 
   @media (max-width: 1181px) {
     grid-template-columns: 1fr;
