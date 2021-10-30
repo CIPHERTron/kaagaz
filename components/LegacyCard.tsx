@@ -12,7 +12,7 @@ import {
 } from '../styles/legacy.styles';
 
 function LegacyCard({ article }) {
-  const { description, slug, title, content, design, category } = article;
+  const { description, slug, title, content, design, category, previewImage } = article;
   return (
     <Wrapper>
       <Container>
@@ -27,7 +27,7 @@ function LegacyCard({ article }) {
         </Link>
       </Container>
       <Container>
-        <Image src='/images/required/legacy.png' alt='Article Image' />
+        <Image src={previewImage} alt={title} />
       </Container>
     </Wrapper>
   );
