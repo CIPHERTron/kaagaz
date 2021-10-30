@@ -19,7 +19,7 @@ const Article = ({ articlesData }: { articlesData: IContentData }) => {
       <Container width='narrow'>
         <StyledContent>
           {articlesData.previewImage && (
-            <Image src={articlesData.previewImage} height={550} width={1200} />
+            <Image src={articlesData.previewImage} height={1100} width={1200} />
           )}
           <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
         </StyledContent>
