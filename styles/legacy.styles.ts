@@ -4,12 +4,13 @@ export const Wrapper = styled.div`
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   background-color: #f0f0f0;
-  height: 545px;
+  height: auto;
   width: 1080px;
   align-items: center;
   margin: 3% auto;
   border-radius: 5px;
   box-shadow: 4px 4px 10px 0px #00000040;
+  overflow: hidden;
 
   @media (max-width: 1181px) {
     grid-template-columns: 1fr;
@@ -26,7 +27,7 @@ export const Heading = styled.h1`
   font-style: normal;
 
   @media (max-width: 769px) {
-    font-size: 84px;
+    font-size: 73px;
   }
 `;
 
@@ -43,6 +44,7 @@ export const ArticleHeading = styled.h3`
 export const Anchor = styled.a`
   text-decoration: none;
   color: #000;
+  cursor: pointer;
 
   &:hover {
     text-decoration: underline;
@@ -83,4 +85,18 @@ export const Image = styled.img`
     height: 100%;
     width: auto;
   }
+`;
+
+export const Credits = styled.div`
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+`;
+
+export const Attribute = styled.p`
+  font-weight: 700;
+  color: #493433;
+  margin: 0;
+  padding: 0;
+  margin: 14px auto;
 `;
