@@ -13,9 +13,9 @@ const Stories = ({ articles }) => {
       <Container>
         <Heading>Stories</Heading>
         <CenterElements>
-          {articles.map((article, idx) => (
-            <LegacyCard key={idx} article={article} />
-          ))}
+          {articles.map((article, idx) => {
+            if (article.category === 'stories') return <LegacyCard key={idx} article={article} />;
+          })}
         </CenterElements>
       </Container>
     </Layout>

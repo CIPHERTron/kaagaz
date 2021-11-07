@@ -2,6 +2,7 @@ import React from 'react';
 import { Layout, Container, LegacyCard } from '../components';
 import { getContentList } from '../lib/content';
 import { CenterElements, Heading } from '../styles/legacy.styles';
+import { Tiler, ImageContainer } from '../styles/scribbles.styles';
 
 const Scribbles = ({ articles }) => {
   return (
@@ -12,7 +13,35 @@ const Scribbles = ({ articles }) => {
     >
       <Container>
         <Heading>Scribbles</Heading>
-        <p>Scribbles page will be a static page</p>
+        <ImageContainer>
+          <Tiler className='tiler'>
+            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
+          </Tiler>
+          <Tiler className='tiler'>
+            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
+          </Tiler>
+          <Tiler className='tiler'>
+            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
+          </Tiler>
+          <Tiler className='tiler'>
+            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
+          </Tiler>
+          <Tiler className='tiler'>
+            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
+          </Tiler>
+          <Tiler className='tiler'>
+            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
+          </Tiler>
+          <Tiler className='tiler'>
+            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
+          </Tiler>
+          <Tiler className='tiler'>
+            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
+          </Tiler>
+          <Tiler className='tiler'>
+            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
+          </Tiler>
+        </ImageContainer>
       </Container>
     </Layout>
   );

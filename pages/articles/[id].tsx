@@ -18,9 +18,8 @@ const Article = ({ articlesData }: { articlesData: IContentData }) => {
     <Layout pathname={pathname} pageTitle={title} pageDescription={description}>
       <Container width='narrow'>
         <StyledContent>
-          <time>{articlesData.date}</time>
           {articlesData.previewImage && (
-            <Image src={articlesData.previewImage} height={550} width={1200} />
+            <Image src={articlesData.previewImage} height={1100} width={1200} />
           )}
           <div dangerouslySetInnerHTML={{ __html: contentHtml }} />
         </StyledContent>
@@ -40,7 +39,6 @@ export const getStaticPaths = async () => {
 export interface IContentData {
   id: string;
   contentHtml: string;
-  date: Date;
   title: string;
   previewImage?: string;
   description?: string;

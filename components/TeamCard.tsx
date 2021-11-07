@@ -6,7 +6,7 @@ function TeamCard({ name, image, eb, por }) {
     <Wrapper>
       <ProfileImage src={image} width={180} height={180} alt='Profile Image' />
       <h4>{name}</h4>
-      {eb && <Tag>{por}</Tag>}
+      <Tag>{por}</Tag>
     </Wrapper>
   );
 }
