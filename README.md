@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/CIPHERTron/kaagaz.git">
-    <img src="logo.png" alt="Logo" width="130">
+    <img src="public/logo.png" alt="Logo" width="130">
   </a>
 
   <h3 align="center">Kaagaz</h3>
