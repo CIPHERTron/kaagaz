@@ -18,6 +18,18 @@ export const EditorComponent = styled.div`
   margin-bottom: 15px;
 
   @media (max-width: 1418px) {
+    grid-template-columns: 300px 3fr;
+  }
+  @media (max-width: 1218px) {
+    grid-template-columns: 300px 3fr;
+  }
+  @media (max-width: 1023px) {
+    grid-template-columns: 250px 3fr;
+  }
+  @media (max-width: 760px) {
+    grid-template-columns: 200px 3fr;
+  }
+  @media (max-width: 576px) {
     grid-template-columns: 1fr;
   }
 `;
@@ -25,34 +37,42 @@ export const EditorComponent = styled.div`
 export const Image = styled.img`
   object-fit: cover;
   border-radius: 34px;
-  margin: 10px;
-  margin-bottom: 5px;
+  margin: auto 10px;
+  max-height: 250px;
+
+  @media (max-width: 576px) {
+    max-height: 300px;
+  }
 `;
 
 export const Heading = styled.h2`
-  font-size: 60px;
-  font-weight: 500;
-  margin-bottom: 15px;
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 0px;
 
   @media (max-width: 1418px) {
-    font-size: 40px;
+    font-size: 26px;
   }
   @media (max-width: 1024px) {
-    font-size: 30px;
+    font-size: 20px;
   }
 `;
 
 export const Name = styled.h3`
-  font-size: 30px;
   font-weight: 500;
-  margin-bottom: 30px;
+  margin: 5px 0;
+
+  @media (max-width: 1418px) {
+    font-size: 20px;
+  }
+  @media (max-width: 1024px) {
+    font-size: 16px;
+  }
 `;
 
 export const Description = styled.p`
   font-weight: 400;
-  line-height: 34.5px;
   text-align: justify;
-  font-size: 23px;
   width: 1000px;
 
   @media (max-width: 1418px) {
@@ -63,6 +83,7 @@ export const Description = styled.p`
 export const NamesContainer = styled.div`
   display: flex;
   justify-content: flex-start;
+  margin: 5px 0;
 
   .first {
     margin-right: 50px;

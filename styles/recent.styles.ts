@@ -22,6 +22,17 @@ export const RecentArticle = styled.div`
   border-radius: 34px;
   margin: 7% auto;
   box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
+  position: relative;
+
+  &:hover {
+    & > img {
+      transform: translatey(-150px);
+      cursor: default;
+    }
+    & > h3 {
+      display: block;
+    }
+  }
 `;
 
 export const ArticleImage = styled.img`
@@ -29,8 +40,25 @@ export const ArticleImage = styled.img`
   border-radius: 34px;
   cursor: pointer;
   transition: all var(--animation-duration) var(--transition-timing-function);
+`;
 
-  &:hover {
-    transform: scale(1.1);
+export const ArticleHeading = styled.h3`
+  display: none;
+  position: absolute;
+  bottom: 0;
+  padding: 10px 20px;
+  background-color: #faf9f9;
+  border-radius: 0 0 34px 34px;
+  height: 150px;
+  font-size: 22px;
+  line-height: 24px;
+  & > a {
+    text-decoration: none;
+    color: black;
+  }
+  & > a {
+    &:hover {
+      color: black;
+    }
   }
 `;

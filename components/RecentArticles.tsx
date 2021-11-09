@@ -1,21 +1,15 @@
 import React from 'react';
-import { Wrapper, RecentArticle, ArticleImage } from '../styles/recent.styles';
+import { HeadingLight } from '../styles/home.styles';
+import { Wrapper, RecentArticle, ArticleImage, ArticleHeading } from '../styles/recent.styles';
+import RecentArticleCard from './RecentArticleCard';
 
 function RecentArticles() {
   return (
     <Wrapper>
-      <RecentArticle>
-        <ArticleImage src='/images/required/article1.jpg' />
-      </RecentArticle>
-      <RecentArticle>
-        <ArticleImage src='/images/required/article1.jpg' />
-      </RecentArticle>
-      <RecentArticle>
-        <ArticleImage src='/images/required/article1.jpg' />
-      </RecentArticle>
-      <RecentArticle>
-        <ArticleImage src='/images/required/article1.jpg' />
-      </RecentArticle>
+      <RecentArticleCard />
+      <RecentArticleCard />
+      <RecentArticleCard />
+      <RecentArticleCard />
     </Wrapper>
   );
 }

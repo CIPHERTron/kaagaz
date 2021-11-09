@@ -19,7 +19,9 @@ const HomeHeader = () => {
               Imagine. Create. Soar
             </Typist>
           </LandingHeading>
-          <Illustration src='/images/required/landing.svg' />
+          <a href='/legacy'>
+            <Illustration src='/images/required/landing.svg' />
+          </a>
         </LandingContainer>
       </Container>
     </StyledHomeHeading>

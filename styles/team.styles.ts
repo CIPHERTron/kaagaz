@@ -42,6 +42,10 @@ export const ProfileImage = styled(Image)`
   border-radius: 50%;
 `;
 
+export const ProfileName = styled.h4`
+  margin: 10px 0;
+`;
+
 export const TeamContainer = styled.div`
   display: grid;
   grid-template-columns: repeat(5, 1fr);
