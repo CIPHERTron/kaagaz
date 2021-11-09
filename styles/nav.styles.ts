@@ -66,8 +66,16 @@ export const NavSection = styled.header`
   }
 
   .navLinkItem {
-    margin-right: 32px;
+    margin-right: 12px;
     text-decoration: none;
+
+    padding: 8px 14px;
+    border-radius: 20px;
+    transition: background-color 0.2s ease-in-out;
+
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.05);
+    }
 
     &:last-child {
       margin-right: 0;
