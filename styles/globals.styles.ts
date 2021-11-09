@@ -2,11 +2,12 @@ import styled from '@emotion/styled';
 
 export const Heading = styled.h3`
   font-family: 'Poppins', sans-serif;
-  font-size: 36px;
+  font-size: 48px;
   letter-spacing: 1px;
   text-align: left;
   font-weight: 400;
   margin-top: 60px;
+  margin-bottom: 20px;
 
   @media (max-width: 1024px) {
     font-size: 48px;

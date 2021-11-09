@@ -26,7 +26,7 @@ export const RecentArticle = styled.div`
 
   &:hover {
     & > img {
-      transform: translatey(-150px);
+      transform: translatey(-100px);
       cursor: default;
     }
     & > h3 {
@@ -49,16 +49,15 @@ export const ArticleHeading = styled.h3`
   padding: 10px 20px;
   background-color: #faf9f9;
   border-radius: 0 0 34px 34px;
-  height: 150px;
-  font-size: 22px;
-  line-height: 24px;
+  height: 100px;
+  font-size: 16px;
+  line-height: 18px;
+  text-align: justify;
   & > a {
     text-decoration: none;
-    color: black;
-  }
-  & > a {
+    color: #493434;
     &:hover {
-      color: black;
+      color: #493434;
     }
   }
 `;

@@ -1,6 +1,5 @@
 import React from 'react';
-import { HeadingLight } from '../styles/home.styles';
-import { Wrapper, RecentArticle, ArticleImage, ArticleHeading } from '../styles/recent.styles';
+import { Wrapper } from '../styles/recent.styles';
 import RecentArticleCard from './RecentArticleCard';
 
 function RecentArticles() {

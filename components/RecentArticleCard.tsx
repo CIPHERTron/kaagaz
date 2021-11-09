@@ -1,6 +1,5 @@
 import React from 'react';
 import { ArticleHeading, ArticleImage, RecentArticle } from '../styles/recent.styles';
-import { Body } from '../styles/Typography.styles';
 
 const RecentArticleCard = () => {
   return (
