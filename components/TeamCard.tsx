@@ -1,11 +1,11 @@
 import React from 'react';
-import { Wrapper, ProfileImage, Tag } from '../styles/team.styles';
+import { Wrapper, ProfileImage, Tag, ProfileName } from '../styles/team.styles';
 
 function TeamCard({ name, image, eb, por }) {
   return (
     <Wrapper>
       <ProfileImage src={image} width={180} height={180} alt='Profile Image' />
-      <h4>{name}</h4>
+      <ProfileName>{name}</ProfileName>
       <Tag>{por}</Tag>
     </Wrapper>
   );

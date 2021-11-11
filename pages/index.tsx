@@ -1,6 +1,7 @@
 import React, { FC } from 'react';
 
 import { Layout, Container, RecentArticles, EditorDesk } from '../components';
+import { OffWhiteContainer } from '../styles/container.styles';
 import { Heading } from '../styles/globals.styles';
 // import { getContentList } from '../lib/content';
 
@@ -8,9 +9,13 @@ import { Heading } from '../styles/globals.styles';
 const Index: FC = ({ selectedWorks, selectedArticles }) => {
   return (
     <Layout pathname={'/'} pageTitle='Home'>
+      <OffWhiteContainer>
+        <Container>
+          <Heading>Recent Articles</Heading>
+          <RecentArticles />
+        </Container>
+      </OffWhiteContainer>
       <Container>
-        <Heading>Recent Articles</Heading>
-        <RecentArticles />
         <Heading>Editor's Desk</Heading>
         <EditorDesk />
       </Container>

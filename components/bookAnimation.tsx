@@ -38,8 +38,8 @@ const BookAnimation = ({ src, btnText, color, source, author }) => {
               <li></li>
             </ul>
             <figcaption>
-              <h2>{source}</h2>
-              <span>By {author}</span>
+              <h2 style={{ fontSize: '24px' }}>{source}</h2>
+              <span style={{ fontSize: '16px' }}>By {author}</span>
             </figcaption>
           </figure>
         </li>

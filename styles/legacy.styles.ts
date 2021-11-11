@@ -21,7 +21,7 @@ export const Wrapper = styled.div`
 
 export const Heading = styled.h1`
   font-size: 144px;
-  text-align: right;
+  text-align: center;
   font-weight: 700;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -33,7 +33,7 @@ export const Heading = styled.h1`
 
 export const ArticleHeading = styled.h3`
   font-family: Poppins;
-  font-size: 18px;
+  font-size: 24px;
   font-style: normal;
   font-weight: 600;
   line-height: 27px;
@@ -45,6 +45,7 @@ export const Anchor = styled.a`
   text-decoration: none;
   color: #000;
   cursor: pointer;
+  font-size: 16px;
 
   &:hover {
     text-decoration: underline;
@@ -55,7 +56,7 @@ export const Anchor = styled.a`
 export const Quote = styled.p`
   width: 387px;
   font-family: Poppins;
-  font-size: 18px;
+  font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 27px;

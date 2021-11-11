@@ -9,10 +9,10 @@ export const Wrapper = styled.div`
 
 export const Text = styled.p`
   text-align: justify;
-  font-size: 32px;
+  font-size: 22px;
 
   @media (max-width: 749px) {
-    font-size: 24px;
+    font-size: 16px;
     text-align: left;
   }
 `;

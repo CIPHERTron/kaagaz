@@ -18,6 +18,9 @@ export const StyledHomeHeading = styled.div`
       max-width: 80%;
     }
   }
+  @media (max-width: 769px) {
+    padding: 0px;
+  }
 `;
 
 export const StyledPageHeading = styled.div`
@@ -49,12 +52,14 @@ export const LandingContainer = styled.div`
 export const LandingHeading = styled.h1`
   text-align: center;
   color: var(--text-color);
-  font-size: 48px;
-  font-weight: 500;
+  font-size: 42px;
+  font-weight: 800;
 
   @media (max-width: 769px) {
-    font-size: 20px;
-    text-align: center;
+    font-size: 32px;
+  }
+  @media (max-width: 375px) {
+    font-size: 24px;
   }
 `;
 
@@ -68,4 +73,8 @@ export const LandingAbout = styled.h1`
 export const Illustration = styled.img`
   width: 100%;
   height: auto;
+
+  &:hover {
+    transform: scale(1.1);
+  }
 `;

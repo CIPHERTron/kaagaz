@@ -2,11 +2,12 @@ import styled from '@emotion/styled';
 
 export const Heading = styled.h3`
   font-family: 'Poppins', sans-serif;
-  font-size: 36px;
+  font-size: 48px;
   letter-spacing: 1px;
   text-align: left;
   font-weight: 400;
   margin-top: 60px;
+  margin-bottom: 20px;
 
   @media (max-width: 1024px) {
     font-size: 48px;
@@ -22,6 +23,22 @@ export const LightHeading = styled.h2`
   font-size: 64px;
   font-family: 'Kanit', sans-serif;
   letter-spacing: 1px;
+
+  @media (max-width: 1024px) {
+    font-size: 48px;
+  }
+  @media (max-width: 769px) {
+    font-size: 32px;
+  }
+`;
+
+export const HeadingBold = styled.h3`
+  font-family: 'Poppins', sans-serif;
+  font-size: 32px;
+  letter-spacing: 1px;
+  text-align: left;
+  font-weight: 600;
+  margin-top: 60px;
 
   @media (max-width: 1024px) {
     font-size: 48px;
