@@ -1,3 +1,4 @@
+import { keyframes } from '@emotion/core';
 import styled from '@emotion/styled';
 
 export const Wrapper = styled.div`
@@ -23,14 +24,17 @@ export const RecentArticle = styled.div`
   margin: 7% auto;
   box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
   position: relative;
+  overflow: hidden;
 
   &:hover {
     & > img {
-      transform: translatey(-100px);
+      transform: translatey(-60px);
       cursor: default;
+      transition: transform 1s;
     }
     & > h3 {
-      display: block;
+      transform: translatey(-60px);
+      transition: all 1s;
     }
   }
 `;
@@ -43,13 +47,12 @@ export const ArticleImage = styled.img`
 `;
 
 export const ArticleHeading = styled.h3`
-  display: none;
   position: absolute;
-  bottom: 0;
+  bottom: -60px;
   padding: 10px 20px;
   background-color: #faf9f9;
   border-radius: 0 0 34px 34px;
-  height: 100px;
+  height: 60px;
   font-size: 16px;
   line-height: 18px;
   text-align: justify;

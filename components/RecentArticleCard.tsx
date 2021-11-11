@@ -6,10 +6,7 @@ const RecentArticleCard = () => {
     <RecentArticle>
       <ArticleImage src='/images/required/article1.jpg' />
       <ArticleHeading>
-        <a href=''>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, quae. Lorem ipsum dolor
-          Lorem ipsum dolor
-        </a>
+        <a href=''>Lorem ipsum dolor sit amet consectetur adipisicing elit.</a>
       </ArticleHeading>
     </RecentArticle>
   );
