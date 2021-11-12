@@ -70,9 +70,27 @@ export const LandingAbout = styled.h1`
   }
 `;
 
-export const Illustration = styled.img`
+export const DesktopIllustration = styled.img`
   width: 100%;
   height: auto;
+
+  @media (max-width: 512px) {
+    display: none;
+  }
+
+  &:hover {
+    transform: scale(1.1);
+  }
+`;
+
+export const MobileIllustration = styled.img`
+  width: 100%;
+  height: auto;
+  display: none;
+
+  @media (max-width: 512px) {
+    display: block;
+  }
 
   &:hover {
     transform: scale(1.1);
