@@ -5,8 +5,9 @@ import { Container } from '../.';
 import {
   StyledHomeHeading,
   LandingContainer,
-  Illustration,
   LandingHeading,
+  DesktopIllustration,
+  MobileIllustration,
 } from '../../styles/header.styles';
 
 const HomeHeader = () => {
@@ -20,7 +21,8 @@ const HomeHeader = () => {
             </Typist>
           </LandingHeading>
           <a href='/legacy'>
-            <Illustration src='/images/required/landing.svg' />
+            <DesktopIllustration src='/images/required/desktop-landing.png' />
+            <MobileIllustration src='/images/required/mobile-landing.png' />
           </a>
         </LandingContainer>
       </Container>
