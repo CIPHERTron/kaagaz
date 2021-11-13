@@ -1,12 +1,13 @@
 import React from 'react';
+import Link from 'next/link';
 import { ArticleHeading, ArticleImage, RecentArticle } from '../styles/recent.styles';
 
-const RecentArticleCard = () => {
+const RecentArticleCard = ({ image, altText, title, link }) => {
   return (
     <RecentArticle>
-      <ArticleImage src='/images/required/article1.jpg' />
+      <ArticleImage src={image} alt={altText} />
       <ArticleHeading>
-        <a href=''>Lorem ipsum dolor sit amet consectetur adipisicing elit.</a>
+        <Link href={link}>{title}</Link>
       </ArticleHeading>
     </RecentArticle>
   );

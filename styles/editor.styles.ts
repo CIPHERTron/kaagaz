@@ -35,10 +35,11 @@ export const EditorComponent = styled.div`
 `;
 
 export const Image = styled.img`
-  object-fit: cover;
+  height: 250px;
+  object-fit: fill;
   border-radius: 34px;
   margin: auto 10px;
-  max-height: 250px;
+  // max-height: 250px;
 
   @media (max-width: 576px) {
     max-height: 300px;

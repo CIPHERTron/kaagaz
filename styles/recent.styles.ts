@@ -5,6 +5,7 @@ export const Wrapper = styled.div`
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   margin-bottom: 15%;
+  justify-content: center;
 
   @media (max-width: 1320px) {
     grid-template-columns: repeat(3, 1fr);
@@ -41,26 +42,23 @@ export const RecentArticle = styled.div`
 
 export const ArticleImage = styled.img`
   object-fit: cover;
-  border-radius: 34px;
-  cursor: pointer;
+  cursor: pointer !important;
   transition: all var(--animation-duration) var(--transition-timing-function);
 `;
 
 export const ArticleHeading = styled.h3`
-  position: absolute;
-  bottom: -60px;
   padding: 10px 20px;
   background-color: #faf9f9;
   border-radius: 0 0 34px 34px;
   height: 60px;
-  font-size: 16px;
+  font-size: 24px;
   line-height: 18px;
-  text-align: justify;
+  text-align: center;
   & > a {
     text-decoration: none;
     color: #493434;
     &:hover {
-      color: #493434;
+      color: var(--text-color-bright);
     }
   }
 `;

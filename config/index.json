@@ -14,6 +14,88 @@
     "intro": "Kaagaz",
     "keywords": "Design, Magazine, Articles"
   },
-  "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "recentArticles": [
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019450/Articles%20Cover%20Image/Back_to_the_Past_Luggage_jiadsq.jpg",
+      "alt": "Luggage",
+      "title": "Luggage",
+      "link": "/articles/luggage"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019451/Articles%20Cover%20Image/Back_to_the_Past_Campus_ei5eck.jpg",
+      "alt": "Campus",
+      "title": "Campus",
+      "link": "/articles/campus"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019453/Articles%20Cover%20Image/Back_to_the_Past_Academics_cxjax0.png",
+      "alt": "Academics",
+      "title": "Academics",
+      "link": "/articles/academics"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019452/Articles%20Cover%20Image/Back_to_the_Past_Stress_ocoarz.jpg",
+      "alt": "Stress",
+      "title": "Stress",
+      "link": "/articles/stress"
+    }
+  ],
+  "editorsDesk": [
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1633974093/Articles%20Cover%20Image/All_I_could_have_said_kea5ln.jpg",
+      "alt": "All I Could Have Said",
+      "title": "All I Could Have Said",
+      "link": "/articles/all-i-could-have-said",
+      "content": "Happy birthday Alice, Wow! You are 18 already! Don’t worry. The yellow patches on this paper are not my tears, I promise. You are mature now and will understand life and death better. I am writing this letter so that you know how I feel today, on 22nd October 1999, counting my last days. Every breath seems heavy. The cancer is not what is killing me; the helplessness is...",
+      "credit1": "Rajnandini",
+      "credit2": "Biswajit"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1633974093/Articles%20Cover%20Image/Out_the_window_amcfrl.png",
+      "alt": "Out The Window",
+      "title": "Out The Window",
+      "link": "/articles/out-the-window",
+      "content": "I see skies of blue and clouds of white The bright blessed day, the dark sacred night And I think to myself what a wonderful world The colors of the rainbow so pretty in the sky Are also on the faces of people going by I see friends shaking hands saying how do you do They’re really saying I love you, As if Louis Armstrong had tapped into my thoughts and seen through me, all that I have seen...",
+      "credit1": "Aalisha",
+      "credit2": "Smithraj"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1633974093/Articles%20Cover%20Image/Grand_Old_Oak_onmnud.jpg",
+      "alt": "Grand Old Oak",
+      "title": "Grand Old Oak",
+      "link": "/articles/grand-old-oak",
+      "content": "Grand old Oak. He was always an optimist. A glass half full kinda guy. His spirit was contagious to all us trees that surrounded him and to all the creatures he housed. They myna would sing, the squirrels raced, moss clung to his feet, and mushrooms bloomed. He didn’t mind at all. He whispered and giggled as the gentle spring breeze tickled his leaves and sheltered all that came to him.",
+      "credit1": "Prithu",
+      "credit2": "Kamlesh"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1633969861/Articles%20Cover%20Image/How_we_Say_Hello_fldivd.png",
+      "alt": "How we Say Hello",
+      "title": "How we Say Hello",
+      "link": "/articles/how-we-say-hello",
+      "content": "Letters have always been an incredibly romantic form of communication. Perhaps it is the beauty of tumbling emotions behind the veil of unique penmanship, or perhaps it is the sublime luxury of having someone devote so much time into inking their thoughts, just for you. The way the handwriting curves, the way the I’s are dotted, and the way the stray marks of a lingering pen decorate the pages",
+      "credit1": "Prithu",
+      "credit2": "Biswajit"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1633969834/Articles%20Cover%20Image/Kazoku_xmdpf4.jpg",
+      "alt": "Kazoku",
+      "title": "Kazoku",
+      "link": "/articles/kazoku",
+      "content": "Mum, why is the house moving? I want to get out of the closet!” Takashi whimpered in his mother’s arms as she tucked him closer to her chest. Her hands were trembling as she stroked the toddler’s hair. She could hear cries for help from afar but she could barely move a limb. The utensils were making a ruckus, furniture had toppled",
+      "credit1": "Shreya",
+      "credit2": "Debabrata"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1633968501/Articles%20Cover%20Image/Letter_to_Santa_Claus_eaoz5p.jpg",
+      "alt": "Letter to Santa Claus",
+      "title": "Letter to Santa Claus",
+      "link": "/articles/letter-to-santa-claus",
+      "content": "Dear Saint Nick, Growing up, the most formative exposure I had to Christmas was books and television. They’ve always followed a very strict stereotype: snow on the windowsill; a crackling fire in the fireplace, spewing smoke out of the chimney; stockings hung from the mantelpiece; a giant conifer decorated with tinsels and toppers and stars",
+      "credit1": "Prithu",
+      "credit2": "Biswajit"
+    }
+  ]
 }
 
