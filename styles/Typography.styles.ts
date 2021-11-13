@@ -30,6 +30,12 @@ export const Heading2 = styled.h2`
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 600;
+  cursor: pointer;
+
+  &:hover {
+    color: #533535;
+  }
+
   @media (max-width: 1535px) {
     font-size: 2.25rem;
     line-height: 2.5rem;
