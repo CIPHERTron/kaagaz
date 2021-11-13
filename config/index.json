@@ -14,6 +14,58 @@
     "intro": "Kaagaz",
     "keywords": "Design, Magazine, Articles"
   },
-  "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+  "recentArticles": [
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019450/Articles%20Cover%20Image/Back_to_the_Past_Luggage_jiadsq.jpg",
+      "alt": "Luggage",
+      "title": "Luggage",
+      "link": "/articles/luggage"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019451/Articles%20Cover%20Image/Back_to_the_Past_Campus_ei5eck.jpg",
+      "alt": "Campus",
+      "title": "Campus",
+      "link": "/articles/campus"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019453/Articles%20Cover%20Image/Back_to_the_Past_Academics_cxjax0.png",
+      "alt": "Academics",
+      "title": "Academics",
+      "link": "/articles/academics"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019452/Articles%20Cover%20Image/Back_to_the_Past_Stress_ocoarz.jpg",
+      "alt": "Stress",
+      "title": "Stress",
+      "link": "/articles/stress"
+    }
+  ],
+  "editorsDesk": [
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019450/Articles%20Cover%20Image/Back_to_the_Past_Luggage_jiadsq.jpg",
+      "alt": "Luggage",
+      "title": "Luggage",
+      "link": "/articles/luggage"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019451/Articles%20Cover%20Image/Back_to_the_Past_Campus_ei5eck.jpg",
+      "alt": "Campus",
+      "title": "Campus",
+      "link": "/articles/campus"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019453/Articles%20Cover%20Image/Back_to_the_Past_Academics_cxjax0.png",
+      "alt": "Academics",
+      "title": "Academics",
+      "link": "/articles/academics"
+    },
+    {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019452/Articles%20Cover%20Image/Back_to_the_Past_Stress_ocoarz.jpg",
+      "alt": "Stress",
+      "title": "Stress",
+      "link": "/articles/stress"
+    }
+  ]
 }
 

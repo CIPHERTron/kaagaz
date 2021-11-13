@@ -2,13 +2,14 @@ import React from 'react';
 import { Wrapper } from '../styles/recent.styles';
 import RecentArticleCard from './RecentArticleCard';
 
+import { recentArticles } from '../config/index.json';
+
 function RecentArticles() {
   return (
     <Wrapper>
-      <RecentArticleCard />
-      <RecentArticleCard />
-      <RecentArticleCard />
-      <RecentArticleCard />
+      {recentArticles.map(({ image, link, alt, title }) => (
+        <RecentArticleCard image={image} altText={alt} title={title} link={link} />
+      ))}
     </Wrapper>
   );
 }
