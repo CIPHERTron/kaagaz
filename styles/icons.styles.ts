@@ -8,8 +8,7 @@ export const Wrapper = styled.div`
   .icon-link {
     color: #000;
     text-decoration: none;
-    padding: 10px auto;
-    margin-right: 10px;
+    margin: auto 10px;
 
     &:hover {
       color: var(--text-color-bright);
@@ -17,6 +16,7 @@ export const Wrapper = styled.div`
 
     @media (max-width: 769px) {
       justify-content: center;
+      margin: 0 10px 0 0;
     }
   }
 `;

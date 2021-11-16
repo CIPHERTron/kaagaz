@@ -5,6 +5,10 @@ import { GitHub, Codepen, Twitter, Linkedin } from 'react-feather';
 export const Container = styled.div`
   width: 100%;
   padding: 0 20px;
+
+  .description {
+    font-size: medium;
+  }
 `;
 
 export const StyledFooterSection = styled.footer`
@@ -42,16 +46,6 @@ export const StyledFooterSection = styled.footer`
     justify-content: center;
     align-items: center;
     width: 100%;
-
-    & > div {
-      & .icon-link {
-        margin-right: 53px;
-      }
-
-      & .icon-link:nth-child(4) {
-        margin-right: 0;
-      }
-    }
 
     & > p {
       font-size: x-large;

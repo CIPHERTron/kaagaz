@@ -8,9 +8,10 @@ const Footer = () => (
     <Container className='footer-box'>
       <Container className='footer-container'>
         <StyledLogo src='https://raw.githubusercontent.com/CIPHERTron/kaagaz/main/public/logo.png' />
-        <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam quibusdam quaerat nisi?
-          Adipisci expedita voluptates mollitia voluptatum iure. Temporibus reiciendis
+        <p className='description'>
+          Kaagaz is a D361 initiative, the official magazine club of NIT-Rourkela which aims to
+          provide a creative environment for all the writers, artists, and designers in the
+          institute through various social media series, and the annual student magazine.
         </p>
       </Container>
 
