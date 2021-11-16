@@ -12,6 +12,8 @@ const Comics = () => {
           color='blue'
           source='Capture 2020'
           author='Abhrant Panigrahi and Subham Sai Behera'
+          text='CAPTURE'
+          year='2020'
         />
         <BookAnimation
           src='/comics/d361-colours-2019'
@@ -19,6 +21,8 @@ const Comics = () => {
           color='blue'
           source='Colours 2019'
           author='Aalisha Padhy and Navneet Reddy'
+          text='Colours'
+          year='2019'
         />
         <BookAnimation
           src='/comics/d361-war-and-peace-2018'
@@ -26,6 +30,8 @@ const Comics = () => {
           color='blue'
           source='War and Peace 2018'
           author='Partha Dhal'
+          text='War and Peace'
+          year='2018'
         />
       </Container>
     </Layout>

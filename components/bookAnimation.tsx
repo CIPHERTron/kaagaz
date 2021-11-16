@@ -1,7 +1,7 @@
 import React from 'react';
 import { BookComponent } from '../styles/bookanimation.styles';
 
-const BookAnimation = ({ src, btnText, color, source, author }) => {
+const BookAnimation = ({ src, btnText, color, source, author, text, year }) => {
   return (
     <BookComponent>
       <ul className='align'>
@@ -10,8 +10,8 @@ const BookAnimation = ({ src, btnText, color, source, author }) => {
             <ul className='hardcover_front'>
               <li>
                 <div className={`coverDesign ${color}`}>
-                  <h1>Kaagaz</h1>
-                  <p>By D361</p>
+                  <h1>{text}</h1>
+                  <p>{year}</p>
                 </div>
               </li>
               <li></li>
