@@ -3,12 +3,12 @@ import styled from '@emotion/styled';
 
 export const Wrapper = styled.div`
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   margin-bottom: 60px;
   justify-content: center;
 
   @media (max-width: 1320px) {
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
   @media (max-width: 984px) {
     grid-template-columns: repeat(2, 1fr);
