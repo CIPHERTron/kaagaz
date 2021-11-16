@@ -2,7 +2,8 @@ import styled from '@emotion/styled';
 
 export const StyledHomeHeading = styled.div`
   height: fit-content;
-  padding: 64px;
+  padding: 32px;
+  padding-top: 0px;
 
   @media (min-width: 1024px) {
     .header-container {
@@ -52,8 +53,9 @@ export const LandingContainer = styled.div`
 export const LandingHeading = styled.h1`
   text-align: center;
   color: var(--text-color);
-  font-size: 42px;
+  font-size: 48px;
   font-weight: 800;
+  margin-bottom: 10px;
 
   @media (max-width: 769px) {
     font-size: 32px;
@@ -70,9 +72,25 @@ export const LandingAbout = styled.h1`
   }
 `;
 
+export const LandingImage = styled.a`
+  width: 80%;
+  margin: auto;
+  margin-bottom: 20px;
+  @media (max-width: 1200px) {
+    width: 100%;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+`;
+
 export const DesktopIllustration = styled.img`
   width: 100%;
   height: auto;
+  margin: 0 auto;
+
+  @media (max-width: 1200px) {
+    width: 100%;
+  }
 
   @media (max-width: 512px) {
     display: none;

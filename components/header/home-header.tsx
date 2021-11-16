@@ -8,6 +8,7 @@ import {
   LandingHeading,
   DesktopIllustration,
   MobileIllustration,
+  LandingImage,
 } from '../../styles/header.styles';
 
 const HomeHeader = () => {
@@ -20,10 +21,10 @@ const HomeHeader = () => {
               Imagine. Create. Soar
             </Typist>
           </LandingHeading>
-          <a href='/legacy'>
+          <LandingImage href='/legacy'>
             <DesktopIllustration src='/images/required/desktop-landing.png' />
-            <MobileIllustration src='/images/required/mobile-landing.png' />
-          </a>
+            <MobileIllustration src='/images/required/mobile-landing-2.png' />
+          </LandingImage>
         </LandingContainer>
       </Container>
     </StyledHomeHeading>

@@ -4,7 +4,7 @@ import styled from '@emotion/styled';
 export const Wrapper = styled.div`
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  margin-bottom: 15%;
+  margin-bottom: 60px;
   justify-content: center;
 
   @media (max-width: 1320px) {
@@ -26,6 +26,7 @@ export const RecentArticle = styled.div`
   box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff;
   position: relative;
   overflow: hidden;
+  background-color: #faf9f9;
 
   &:hover {
     & > img {
