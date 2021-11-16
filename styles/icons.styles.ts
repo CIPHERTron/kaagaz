@@ -1,7 +1,8 @@
 import styled from '@emotion/styled';
 
 export const Wrapper = styled.div`
-  display: flex;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
   justify-content: start;
   margin: 2% auto;
 
@@ -14,7 +15,7 @@ export const Wrapper = styled.div`
       color: var(--text-color-bright);
     }
 
-    @media (max-width: 769px) {
+    @media (max-width: 300px) {
       justify-content: center;
       margin: 0 10px 0 0;
     }

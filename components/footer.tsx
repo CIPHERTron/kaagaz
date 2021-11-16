@@ -26,12 +26,19 @@ const Footer = () => (
       <Container className='footer-social'>
         <p>Social Links</p>
         <Icons />
+        <h6>
+          Jasmin: <strong>+91 82491 24343</strong>
+        </h6>
+        <h6>
+          Leo: <strong>+91 96061 84527</strong>
+        </h6>
       </Container>
       <p className='about-site'>
         Built with 💙 by{' '}
         <a href='https://github.com/opencodenitr/' target='_blank' rel='noreferrer noopener'>
-          OpenCode & GDSC NIT Rourkela
-        </a>
+          OpenCode NITR
+        </a>{' '}
+        & <a href='https://github.com/dscnitrourkela'>GDSC NIT Rourkela</a>
       </p>
     </Container>
   </StyledFooterSection>
