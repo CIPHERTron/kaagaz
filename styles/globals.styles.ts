@@ -6,8 +6,8 @@ export const Heading = styled.h3`
   letter-spacing: 1px;
   text-align: left;
   font-weight: 400;
-  margin-top: 60px;
-  margin-bottom: 20px;
+  margin-top: 32px;
+  margin-bottom: 48px;
 
   @media (max-width: 1024px) {
     font-size: 48px;

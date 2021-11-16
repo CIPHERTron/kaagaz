@@ -20,15 +20,11 @@ export const Wrapper = styled.div`
 `;
 
 export const Heading = styled.h1`
-  font-size: 144px;
+  font-size: 36px;
   text-align: center;
   font-weight: 700;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
-
-  @media (max-width: 769px) {
-    font-size: 73px;
-  }
 `;
 
 export const ArticleHeading = styled.h3`
@@ -54,7 +50,8 @@ export const Anchor = styled.a`
 `;
 
 export const Quote = styled.p`
-  width: 387px;
+  width: 90%;
+  max-width: 387px;
   font-family: Poppins;
   font-size: 16px;
   font-style: normal;
@@ -79,15 +76,15 @@ export const Container = styled.div`
 `;
 
 export const Image = styled.img`
+  height: 400px;
+  width: 600px;
   object-fit: cover;
   margin: 0;
 
-  @media (max-width: 1181px) {
-    height: 100%;
-    width: auto;
+  @media (max-width: 450px) {
+    height: 250px;
   }
 `;
-
 export const Credits = styled.div`
   display: flex;
   flex-direction: column;
