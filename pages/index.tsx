@@ -8,7 +8,7 @@ import { Heading } from '../styles/globals.styles';
 //@ts-ignore
 const Index: FC = ({ selectedWorks, selectedArticles }) => {
   return (
-    <Layout pathname={'/'} pageTitle='Home'>
+    <Layout pathname={'/'} pageTitle='Homepage'>
       <OffWhiteContainer>
         <Container>
           <Heading>Recent Articles</Heading>
