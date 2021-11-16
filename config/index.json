@@ -6,13 +6,13 @@
     "description": "Kaagaz by D361"
   },
   "site": {
-    "siteUrl": "https://github.com/opencodenitr/project-calliope",
-    "siteName": "Kaagaz - by D361",
+    "siteUrl": "https://kaagaz.org.in",
+    "siteName": "Kaagaz - D361",
     "siteTitle": "Kaagaz",
-    "siteDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "siteImage": "../public/Logo.png",
+    "siteDescription": "Kaagaz is a D361 initiative, the official magazine club of NIT-Rourkela which aims to provide a creative environment for all the writers, artists, and designers in the institute through various social media series, and the annual student magazine.",
+    "siteImage": "../public/favicon.ico",
     "intro": "Kaagaz",
-    "keywords": "Design, Magazine, Articles"
+    "keywords": "Design, Magazine, Articles, D361, Kaagaz, NIT, Rourkela"
   },
   "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   "recentArticles": [
@@ -33,12 +33,6 @@
       "alt": "Academics",
       "title": "Academics",
       "link": "/articles/academics"
-    },
-    {
-      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019452/Articles%20Cover%20Image/Back_to_the_Past_Stress_ocoarz.jpg",
-      "alt": "Stress",
-      "title": "Stress",
-      "link": "/articles/stress"
     }
   ],
   "editorsDesk": [
