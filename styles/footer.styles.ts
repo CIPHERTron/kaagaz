@@ -9,6 +9,10 @@ export const Container = styled.div`
   .description {
     font-size: medium;
   }
+
+  @media (max-width: 769px) {
+    padding: 0 10px;
+  }
 `;
 
 export const StyledFooterSection = styled.footer`
