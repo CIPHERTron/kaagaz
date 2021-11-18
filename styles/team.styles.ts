@@ -33,6 +33,7 @@ export const Heading = styled.h3`
 export const ButtonContainer = styled.div`
   display: grid;
   grid-template-columns: repeat(2, 1fr);
+  margin-top: 8px;
 `;
 
 export const Button = styled.button`
@@ -62,23 +63,6 @@ export const ProfileName = styled.h4`
 `;
 
 export const TeamContainer = styled.div`
-  /* display: grid;
-  grid-template-columns: repeat(5, 1fr);
-  column-gap: 14px;
-
-  @media (max-width: 1024px) {
-    grid-template-columns: repeat(4, 1fr);
-  }
-  @media (max-width: 898px) {
-    grid-template-columns: repeat(3, 1fr);
-  }
-  @media (max-width: 654px) {
-    grid-template-columns: repeat(2, 1fr);
-  }
-  @media (max-width: 554px) {
-    grid-template-columns: repeat(1, 1fr);
-  } */
-
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
