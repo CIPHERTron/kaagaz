@@ -3,9 +3,23 @@ import styled from '@emotion/styled';
 
 export const Wrapper = styled.div`
   display: flex;
+  padding: 20px;
   flex-direction: column;
-  justify-content: start;
+  justify-content: center;
   align-items: center;
+  flex-basis: 20%;
+  @media (max-width: 1024px) {
+    flex-basis: 25%;
+  }
+  @media (max-width: 898px) {
+    flex-basis: 33.33%;
+  }
+  @media (max-width: 654px) {
+    flex-basis: 50%;
+  }
+  @media (max-width: 554px) {
+    flex-basis: 100%;
+  }
 `;
 
 export const Heading = styled.h3`
@@ -47,7 +61,7 @@ export const ProfileName = styled.h4`
 `;
 
 export const TeamContainer = styled.div`
-  display: grid;
+  /* display: grid;
   grid-template-columns: repeat(5, 1fr);
   column-gap: 14px;
 
@@ -62,7 +76,12 @@ export const TeamContainer = styled.div`
   }
   @media (max-width: 554px) {
     grid-template-columns: repeat(1, 1fr);
-  }
+  } */
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-flow: row wrap;
 `;
 
 export const Tag = styled.p`
