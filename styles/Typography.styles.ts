@@ -84,6 +84,7 @@ export const Heading4 = styled.h4`
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
+  margin: 5px 0;
 
   @media (max-width: 1279px) {
     font-size: 1.5rem;
