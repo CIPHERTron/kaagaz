@@ -7,22 +7,40 @@ const Contacts = () => {
     <Layout pathname={'/legacy'} pageTitle='Legacy' pageDescription='Legacy!'>
       <Container>
         <BookAnimation
-          src='#'
-          btnText='Read Comic'
+          src='/docs/legacy/Capture.pdf'
+          btnText='Read Book'
           color='blue'
-          source='Fivera.net'
-          author='Nikola Tesla'
-          text='CAPTURE'
+          source='Capture 2020'
+          author='D361'
+          text='Capture'
           year='2020'
         />
         <BookAnimation
-          src='#'
-          btnText='Read Comic'
+          src='/docs/legacy/Colours.pdf'
+          btnText='Read Book'
           color='blue'
-          source='Fivera.net'
-          author='Nikola Tesla'
-          text='CAPTURE'
-          year='2020'
+          source='Colours 2019'
+          author='D361'
+          text='Colours'
+          year='2019'
+        />
+        <BookAnimation
+          src='/docs/legacy/War-and-Peace.pdf'
+          btnText='Read Book'
+          color='blue'
+          source='War and Peace 2018'
+          author='D361'
+          text='War and Peace'
+          year='2016'
+        />
+        <BookAnimation
+          src='/docs/legacy/Force-Awakens.pdf'
+          btnText='Read Book'
+          color='blue'
+          source='Force Awakens 2016'
+          author='D361'
+          text='Force Awakens'
+          year='2016'
         />
       </Container>
     </Layout>
