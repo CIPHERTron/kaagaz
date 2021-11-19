@@ -31,7 +31,7 @@ const Contacts = () => {
           source='War and Peace 2018'
           author='D361'
           text='War and Peace'
-          year='2016'
+          year='2018'
         />
         <BookAnimation
           src='/docs/legacy/Force-Awakens.pdf'
