@@ -9,6 +9,7 @@ function EditorDesk() {
     <Container>
       {editorsDesk.map(({ image, alt, link, title, content, credit1, credit2 }) => (
         <EditorDeskCard
+          key={image}
           image={image}
           alt={alt}
           link={link}

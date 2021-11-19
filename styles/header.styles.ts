@@ -55,7 +55,8 @@ export const LandingHeading = styled.h1`
   color: var(--text-color);
   font-size: 48px;
   font-weight: 800;
-  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-bottom: 40px;
 
   @media (max-width: 769px) {
     font-size: 32px;
