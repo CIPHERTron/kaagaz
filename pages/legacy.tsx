@@ -1,11 +1,16 @@
 import React from 'react';
 import { Layout, Container } from '../components';
 import BookAnimation from '../components/bookAnimation';
+import { MobileBook } from '../styles/legacy.styles';
 
 const Contacts = () => {
   return (
     <Layout pathname={'/legacy'} pageTitle='Legacy' pageDescription='Legacy!'>
       <Container>
+        <MobileBook>
+          Reading a book works best on desktop mode. If you are using mobile or tablets you can go
+          ahead and download the book.
+        </MobileBook>
         <BookAnimation
           src='/docs/legacy/Capture.pdf'
           btnText='Read Book'

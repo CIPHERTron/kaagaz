@@ -34,7 +34,7 @@ export const ArticleHeading = styled.h3`
   font-weight: 600;
   line-height: 27px;
   text-align: center;
-  margin: 0 auto 5%;
+  margin: 5px auto 10px;
 `;
 
 export const Anchor = styled.a`
@@ -59,6 +59,7 @@ export const Quote = styled.p`
   line-height: 27px;
   letter-spacing: 0em;
   text-align: left;
+  margin: 5px 0;
 `;
 
 export const CenterElements = styled.div`
@@ -96,5 +97,13 @@ export const Attribute = styled.p`
   color: #493433;
   margin: 0;
   padding: 0;
-  margin: 14px auto;
+  margin: 5px auto;
+`;
+
+export const MobileBook = styled.div`
+  display: none;
+
+  @media (max-width: 768px) {
+    display: block;
+  }
 `;
