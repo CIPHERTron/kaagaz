@@ -31,7 +31,7 @@ const MobileNav = () => {
           </li>
 
           <li className='listItem'>
-            <Link href='/comics'>
+            <Link href='/legacy'>
               <a className='link'>Legacy</a>
             </Link>
           </li>
