@@ -99,6 +99,11 @@ export const StyledFooterSection = styled.footer`
     }
   }
 
+  .not-visible {
+    display: none !important;
+    opacity: 0;
+  }
+
   @media (max-width: 769px) {
     .footer-box {
       display: block;
@@ -133,10 +138,10 @@ export const BackToTop = styled.button`
   position: fixed;
   bottom: 20px;
   right: 20px;
-  padding: 10.5px 20px;
+  padding: 10px;
   background-color: white;
   border: none;
-  border-radius: 50px;
+  border-radius: 5px;
   -webkit-box-shadow: 0px 4px 12px 3px rgba(0, 0, 0, 0.1);
   -moz-box-shadow: 0px 4px 12px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 4px 12px 3px rgba(0, 0, 0, 0.1);
@@ -145,9 +150,5 @@ export const BackToTop = styled.button`
 
   &:hover {
     background-color: #f3f3f3;
-  }
-
-  & > span {
-    display: flex;
   }
 `;
