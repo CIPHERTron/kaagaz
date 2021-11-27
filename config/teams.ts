@@ -212,18 +212,18 @@ export const nineteen = [
     por: 'Content Team',
   },
   {
+    name: 'Deepshri Sharma',
+    image:
+      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816933/Team%202019-20/Deepshri_Sharma_oulpm5.jpg',
+    eb: false,
+    por: 'Content Team',
+  },
+  {
     name: 'Kamlesh Kumar Sahoo',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627876611/Team%202019-20/post%20holder/Kamlesh_Kumar_sahoo_ja89ux.jpg',
     eb: true,
     por: 'Design Head',
-  },
-  {
-    name: 'Rajnandini Panda',
-    image:
-      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1637093178/Team%202019-20/post%20holder/Rajnandini_Panda_gsj6z6_lxlwsk.jpg',
-    eb: true,
-    por: 'Editor-in-Chief',
   },
   {
     name: 'Lafith Mattara',
@@ -233,13 +233,6 @@ export const nineteen = [
     por: 'Content Team',
   },
   {
-    name: 'Satyajeet Behera',
-    image:
-      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627817232/Team%202019-20/satyajeet_behera_gc1iei.jpg',
-    eb: false,
-    por: 'Art Team',
-  },
-  {
     name: 'Mahesh Prasad Pati',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627817232/Team%202019-20/mahesh_yv0xgk.jpg',
@@ -247,23 +240,44 @@ export const nineteen = [
     por: 'Content Team',
   },
   {
-    name: 'Susank Prakash',
-    image:
-      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627817099/Team%202019-20/susank_prakash_jyulo0.jpg',
-    eb: false,
-    por: 'Design Team',
-  },
-  {
     name: 'Parul Rath',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627817097/Team%202019-20/parul_rath_xynttn.jpg',
     eb: false,
     por: 'Content Team',
+  },  
+  {
+    name: 'Prithu Prasad',
+    image:
+      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816930/Team%202019-20/Prithu_Prasad_vqpans.jpg',
+    eb: false,
+    por: 'Content Team',
   },
   {
-    name: 'Yamir Ahsan',
+    name: 'Rajnandini Panda',
     image:
-      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816956/Team%202019-20/yamir_ul2vvm.jpg',
+      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1637093178/Team%202019-20/post%20holder/Rajnandini_Panda_gsj6z6_lxlwsk.jpg',
+    eb: true,
+    por: 'Editor-in-Chief',
+  },
+  {
+    name: 'Rama Krushna Behera',
+    image:
+      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816939/Team%202019-20/rama_p4wagn.jpg',
+    eb: false,
+    por: 'Design Team',
+  },
+  {
+    name: 'Satyajeet Behera',
+    image:
+      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627817232/Team%202019-20/satyajeet_behera_gc1iei.jpg',
+    eb: false,
+    por: 'Art Team',
+  },
+  {
+    name: 'Shreya Srivastava',
+    image:
+      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816938/Team%202019-20/Shreya_Srivastava_mokauh.jpg',
     eb: false,
     por: 'Content Team',
   },
@@ -282,31 +296,24 @@ export const nineteen = [
     por: 'Design Team',
   },
   {
-    name: 'Rama Krushna Behera',
+    name: 'Susank Prakash',
     image:
-      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816939/Team%202019-20/rama_p4wagn.jpg',
+      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627817099/Team%202019-20/susank_prakash_jyulo0.jpg',
     eb: false,
     por: 'Design Team',
   },
+
   {
-    name: 'Shreya Srivastava',
+    name: 'Yamir Ahsan',
     image:
-      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816938/Team%202019-20/Shreya_Srivastava_mokauh.jpg',
+      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816956/Team%202019-20/yamir_ul2vvm.jpg',
     eb: false,
     por: 'Content Team',
   },
-  {
-    name: 'Deepshri Sharma',
-    image:
-      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816933/Team%202019-20/Deepshri_Sharma_oulpm5.jpg',
-    eb: false,
-    por: 'Content Team',
-  },
-  {
-    name: 'Prithu Prasad',
-    image:
-      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1627816930/Team%202019-20/Prithu_Prasad_vqpans.jpg',
-    eb: false,
-    por: 'Content Team',
-  },
+
+
+
+
+
+
 ];

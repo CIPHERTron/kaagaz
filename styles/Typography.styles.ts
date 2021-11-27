@@ -49,7 +49,7 @@ export const Heading2 = styled.h2`
     line-height: 2rem;
   }
   @media (max-width: 639px) {
-    font-size: 1.5rem;
+    font-size: 1.37rem;
     line-height: 2rem;
   }
 `;

@@ -13,7 +13,7 @@ export const Heading = styled.h3`
     font-size: 48px;
   }
   @media (max-width: 769px) {
-    font-size: 32px;
+    font-size: 30px;
   }
 `;
 export const LightHeading = styled.h2`

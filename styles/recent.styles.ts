@@ -62,4 +62,8 @@ export const ArticleHeading = styled.h3`
       color: var(--text-color-bright);
     }
   }
+
+  @media (max-width: 1024px) {
+    font-size: 22px;
+  }
 `;

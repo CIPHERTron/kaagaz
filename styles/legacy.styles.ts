@@ -27,6 +27,18 @@ export const Heading = styled.h1`
   font-style: normal;
 `;
 
+export const SubHeading = styled.p`
+  margin: 20px 100px;
+  text-align: left;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27px;
+  letter-spacing: 0em;
+  
+`;
+
 export const ArticleHeading = styled.h3`
   font-family: Poppins;
   font-size: 24px;
@@ -80,7 +92,7 @@ export const Image = styled.img`
   width: 600px;
   object-fit: cover;
   margin: 0;
-
+  cursor: pointer;
   @media (max-width: 450px) {
     height: 250px;
   }
