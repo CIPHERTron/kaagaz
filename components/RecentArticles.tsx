@@ -8,7 +8,7 @@ function RecentArticles() {
   return (
     <Wrapper>
       {recentArticles.map(({ image, link, alt, title }) => (
-        <RecentArticleCard image={image} altText={alt} title={title} link={link} />
+        <RecentArticleCard key={image} image={image} altText={alt} title={title} link={link} />
       ))}
     </Wrapper>
   );

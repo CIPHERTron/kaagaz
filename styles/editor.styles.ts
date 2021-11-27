@@ -71,7 +71,7 @@ export const Name = styled.h3`
   }
 `;
 
-export const Description = styled.p`
+export const Description = styled.div`
   font-weight: 400;
   text-align: justify;
   width: 1000px;

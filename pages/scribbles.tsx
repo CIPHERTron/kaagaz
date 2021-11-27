@@ -24,31 +24,22 @@ const Scribbles = ({ articles }) => {
         </CenterElements>
         <ImageContainer>
           <Tiler className='tiler'>
-            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
+            <img
+              src='https://res.cloudinary.com/dzvmhmqr0/image/upload/v1637762593/scribbles/scribble-1_smxhxp.jpg'
+              alt='scribble-1'
+            />
           </Tiler>
           <Tiler className='tiler'>
-            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
+            <img
+              src='https://res.cloudinary.com/dzvmhmqr0/image/upload/v1637762595/scribbles/scribble-2_ltgozl.jpg'
+              alt='scribble-2'
+            />
           </Tiler>
           <Tiler className='tiler'>
-            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
-          </Tiler>
-          <Tiler className='tiler'>
-            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
-          </Tiler>
-          <Tiler className='tiler'>
-            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
-          </Tiler>
-          <Tiler className='tiler'>
-            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
-          </Tiler>
-          <Tiler className='tiler'>
-            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
-          </Tiler>
-          <Tiler className='tiler'>
-            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
-          </Tiler>
-          <Tiler className='tiler'>
-            <img src='/images/scribbles/scribble.jpg' alt='scribble' />
+            <img
+              src='https://res.cloudinary.com/dzvmhmqr0/image/upload/v1637762594/scribbles/scribble-3_c8qnwc.jpg'
+              alt='scribble-3'
+            />
           </Tiler>
         </ImageContainer>
       </Container>

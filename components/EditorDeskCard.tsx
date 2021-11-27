@@ -14,12 +14,8 @@ const EditorDeskCard = ({ image, alt, link, title, content, credit1, credit2 }) 
           <Heading2>{title}</Heading2>
         </Link>
         <NamesContainer>
-          <Name className='first'>
-            <Heading4>{credit1}</Heading4>
-          </Name>
-          <Name>
-            <Heading4>{credit2}</Heading4>
-          </Name>
+          <Heading4 className='first'>{credit1}</Heading4>
+          <Heading4>{credit2}</Heading4>
         </NamesContainer>
         <Description>
           <Body>{content}</Body>

@@ -35,10 +35,10 @@ const Footer = () => (
       </Container>
       <p className='about-site'>
         Built with 💙 by{' '}
-        <a href='https://github.com/opencodenitr/' target='_blank' rel='noreferrer noopener'>
+        <a href='https://opencodenitr.herokuapp.com/' target='_blank' rel='noreferrer noopener'>
           OpenCode NITR
         </a>{' '}
-        & <a href='https://github.com/dscnitrourkela'>GDSC NIT Rourkela</a>
+        & <a href='https://dscnitrourkela.org/'>GDSC NIT Rourkela</a>
       </p>
     </Container>
   </StyledFooterSection>
