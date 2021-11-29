@@ -5,17 +5,7 @@ import { StyledLogo } from '../styles/nav.styles';
 import { Link, animateScroll as scroll } from 'react-scroll';
 import { ClassNames } from '@emotion/core';
 
-const Footer = () => (
-  <StyledFooterSection>
-    <Container className='footer-box'>
-      <Container className='footer-container'>
-        <StyledLogo src='https://raw.githubusercontent.com/CIPHERTron/kaagaz/main/public/logo.png' alt='kaagaz'/>
-        <p className='description'>
-          Kaagaz is a D361 initiative, the official magazine club of NIT-Rourkela which aims to
-          provide a creative environment for all the writers, artists, and designers in the
-          institute through various social media series, and the annual student magazine.
-        </p>
-      </Container>
+  
 
 const Footer = () => {
   const [isVisible, setIsVisible] = useState(false);
