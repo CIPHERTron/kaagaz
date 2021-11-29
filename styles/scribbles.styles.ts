@@ -1,5 +1,6 @@
 import styled from '@emotion/styled';
 import Tilt from 'react-tilt';
+import { Body } from './Typography.styles';
 
 export const ImageContainer = styled.div`
   width: 100%;
@@ -22,3 +23,14 @@ export const ImageContainer = styled.div`
 `;
 
 export const Tiler = styled(Tilt)``;
+
+export const Description = styled(Body)`
+  text-align: center;
+  & > span > a {
+    text-decoration: none;
+    color: blue;
+  }
+  @media (max-width: 759px) {
+    text-align: left;
+  }
+`;
