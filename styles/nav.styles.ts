@@ -21,6 +21,10 @@ export const StyledLogo = styled.img`
   height: 50px;
   width: auto;
   cursor: pointer;
+
+  @media (max-width: 759px) {
+    height: 40px;
+  }
 `;
 
 export const NavSection = styled.header`
