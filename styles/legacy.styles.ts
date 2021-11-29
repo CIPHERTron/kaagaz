@@ -28,7 +28,7 @@ export const Heading = styled.h1`
 `;
 
 export const SubHeading = styled.p`
-  margin: 20px 100px;
+  margin: 20px 40px;
   text-align: left;
   font-family: Poppins;
   font-size: 16px;
@@ -36,7 +36,12 @@ export const SubHeading = styled.p`
   font-weight: 400;
   line-height: 27px;
   letter-spacing: 0em;
-  
+
+  @media (max-width: 450px) {
+    margin: 20px 20px;
+    font-size: 12px;
+
+  }
 `;
 
 export const ArticleHeading = styled.h3`

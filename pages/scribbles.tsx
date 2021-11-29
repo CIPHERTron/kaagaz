@@ -18,7 +18,8 @@ const Scribbles = ({ articles }) => {
           
             Suffering from Writer’s block? Scribbling around in your book aimlessly with no words flowing?<br/> 
             We post regular writing prompts as fodder for your inspiration. 
-            Let your creativity flow and mail your works to us at <u>xpress.d361@gmail.com </u>
+            Let your creativity flow and mail your works to us at 
+            <a href="mailto:xpress.d361@gmail.com"> <u> xpress.d361@gmail.com </u> </a> 
             for a chance to be featured on Kaagaz!
           </SubHeading>
         </CenterElements>
