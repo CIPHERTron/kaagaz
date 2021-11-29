@@ -1,6 +1,7 @@
 import styled from '@emotion/styled';
 import { css } from '@emotion/core';
 import { GitHub, Codepen, Twitter, Linkedin } from 'react-feather';
+import { OutlinedButton } from './buttons.styles';
 
 export const Container = styled.div`
   width: 100%;
@@ -98,6 +99,11 @@ export const StyledFooterSection = styled.footer`
     }
   }
 
+  .not-visible {
+    display: none !important;
+    opacity: 0;
+  }
+
   @media (max-width: 769px) {
     .footer-box {
       display: block;
@@ -122,5 +128,27 @@ export const StyledFooterSection = styled.footer`
       align-items: flex-start;
       margin-bottom: 15px;
     }
+  }
+`;
+
+export const BackToTop = styled.button`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px;
+  background-color: white;
+  border: none;
+  border-radius: 5px;
+  -webkit-box-shadow: 0px 4px 12px 3px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 4px 12px 3px rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 4px 12px 3px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  z-index: 9999;
+
+  &:hover {
+    background-color: #f3f3f3;
   }
 `;
