@@ -14,7 +14,22 @@
 }
 
 body::-webkit-scrollbar {
-  display: none;
+  width: 0.5em;
+  z-index: 9999;
+}
+@media (max-width: 759px) {
+  body::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+body::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #cecece;
+  border-radius: 10px;
 }
 
 :root {
