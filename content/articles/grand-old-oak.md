@@ -8,7 +8,7 @@ slug: 'grand-old-oak'
 category: stories
 ---
 
-Grand old Oak. He was always an optimist. A glass half full kinda guy. His spirit was contagious to all us trees that surrounded him and to all the creatures he housed. They myna would sing, the squirrels raced, moss clung to his feet, and mushrooms bloomed. He didn’t mind at all. He whispered and giggled as the gentle spring breeze tickled his leaves and sheltered all that came to him.
+Grand old Oak. He was always an optimist. A glass half full kinda guy. His spirit was contagious to all us trees that surrounded him and to all the creatures he housed. The myna would sing, the squirrels raced, moss clung to his feet, and mushrooms bloomed. He didn’t mind at all. He whispered and giggled as the gentle spring breeze tickled his leaves and sheltered all that came to him.
 
 We were a pleasant bunch in a lush little grove. Oak, the oldest one of us, was also the liveliest, wisest, strongest, largest. He’d spread his branches and touch our tips when we were hurting. He’d invite the woodpecker onto him, the rat-tat-tatting that we found ever so annoying resonated with him.
 
