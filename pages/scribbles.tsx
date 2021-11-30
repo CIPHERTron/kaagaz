@@ -16,8 +16,10 @@ const Scribbles = ({ articles }) => {
         <Heading>Scribbles</Heading>
         <Description>
           Suffering from Writer’s block? Scribbling around in your book aimlessly with no words
-          flowing? We post regular writing prompts as fodder for your inspiration. Let your
-          creativity flow and mail your works to us at{' '}
+          flowing?
+          <br />
+          We post regular writing prompts as fodder for your inspiration. Let your creativity flow
+          and mail your works to us at{' '}
           <span>
             <a href='mailto:xpress.d361@gmail.com'>xpress.d361@gmail.com</a>
           </span>{' '}
