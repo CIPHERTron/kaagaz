@@ -26,9 +26,11 @@ export const Tiler = styled(Tilt)``;
 
 export const Description = styled(Body)`
   text-align: center;
+  color: #999999;
+
   & > span > a {
     text-decoration: none;
-    color: blue;
+    color: #16a085;
   }
   @media (max-width: 759px) {
     text-align: left;
