@@ -16,7 +16,9 @@ function LegacyCard({ article }) {
   return (
     <Wrapper>
       <Container>
-        <Image src={previewImage} alt={title} />
+        <Link href={`/articles/${slug}`}>
+          <Image src={previewImage} alt={title} />
+        </Link>
       </Container>
       <Container>
         <ArticleHeading>{title}</ArticleHeading>
