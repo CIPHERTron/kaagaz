@@ -81,6 +81,7 @@ export const Image = styled.img`
   width: 600px;
   object-fit: cover;
   margin: 0;
+  cursor: pointer;
 
   @media (max-width: 450px) {
     height: 250px;
