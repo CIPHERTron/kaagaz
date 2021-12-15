@@ -10,3 +10,4 @@ export { default as ProfileCard } from './TeamCard';
 export { default as LegacyCard } from './LegacyCard';
 export { default as AboutComponent } from './About';
 export { default as PdfView } from './PdfView';
+export { default as DevProfile } from './DevProfile';
