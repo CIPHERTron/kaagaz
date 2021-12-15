@@ -26,6 +26,7 @@ export const Container = styled.div`
   width: 250px;
   border: 5px solid #999999;
   border-style: dotted;
+  padding: 2px;
   margin: 0 auto;
 `;
 
