@@ -27,7 +27,7 @@ const DevelopersInfo = () => {
           where you can find all our open-sourced projects. Also you can find us on Instagram at{' '}
           <a href='https://www.instagram.com/opencode.nitr/' rel='noreferrer noopener'>
             @opencode.nitr
-          </a>
+          </a>{' '}
           where we post regular updates about our events and workshops.
         </DevInfoDesc>
 
