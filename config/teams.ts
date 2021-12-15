@@ -313,6 +313,13 @@ export const nineteen = [
 
 export const twentyone = [
   {
+    name: 'Swagat Subhakanta Das',
+    image:
+      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1639192843/Team%202021-22/Post%20holders/Swagat_Subhakanta_Das_ao1n3k.jpg',
+    eb: true,
+    por: 'Design Head',
+  },
+  {
     name: 'Jasmin Priya',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1639192843/Team%202021-22/Post%20holders/Jasmin_Priya_qru10r.jpg',
@@ -330,13 +337,6 @@ export const twentyone = [
     name: 'Satyaprakash Karsharma',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1639192843/Team%202021-22/Post%20holders/Satyaprakash_Karsharma_odnqls.jpg',
-    eb: true,
-    por: 'Design Head',
-  },
-  {
-    name: 'Swagat Subhakanta Das',
-    image:
-      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1639192843/Team%202021-22/Post%20holders/Swagat_Subhakanta_Das_ao1n3k.jpg',
     eb: true,
     por: 'Design Head',
   },
