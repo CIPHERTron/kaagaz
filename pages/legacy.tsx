@@ -12,6 +12,15 @@ const Contacts = () => {
           ahead and download the book.
         </MobileBook>
         <BookAnimation
+          src='/docs/legacy/Degree-of-Freedom.pdf'
+          btnText='Read Book'
+          color='blue'
+          source='Degree of Freedom 2021'
+          author='D361'
+          text='DOF'
+          year='2021'
+        />
+        <BookAnimation
           src='/docs/legacy/Capture.pdf'
           btnText='Read Book'
           color='blue'
