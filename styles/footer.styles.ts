@@ -1,7 +1,4 @@
 import styled from '@emotion/styled';
-import { css } from '@emotion/core';
-import { GitHub, Codepen, Twitter, Linkedin } from 'react-feather';
-import { OutlinedButton } from './buttons.styles';
 
 export const Container = styled.div`
   width: 100%;

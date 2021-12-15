@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
+import Link from 'next/link';
 import { StyledFooterSection, Container, BackToTop } from '../styles/footer.styles';
 import { Icons } from '.';
 import { StyledLogo } from '../styles/nav.styles';
-import { Link, animateScroll as scroll } from 'react-scroll';
-import { ClassNames } from '@emotion/core';
+import { animateScroll as scroll } from 'react-scroll';
 
 const Footer = () => {
   const [isVisible, setIsVisible] = useState(false);
@@ -64,7 +64,7 @@ const Footer = () => {
           <a href='https://opencodenitr.herokuapp.com/' target='_blank' rel='noreferrer noopener'>
             OpenCode NITR
           </a>{' '}
-          & <a href='https://dscnitrourkela.org/'>GDSC NIT Rourkela</a>
+          | <Link href='/developersInfo'>DEVELOPERS INFO</Link>
         </p>
       </Container>
       <BackToTop onClick={scrollToTop} title='Go to top' className={isVisible ? '' : 'not-visible'}>
