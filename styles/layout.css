@@ -210,3 +210,7 @@ canvas {
     font-size: 4.37em;
   }
 }
+
+.react-pdf__Page__textContent span {
+  display: none;
+}

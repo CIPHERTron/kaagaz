@@ -7,6 +7,15 @@ const Comics = () => {
     <Layout pathname={'/comics'} pageTitle='Comics' pageDescription='Comics and stuff!'>
       <Container>
         <BookAnimation
+          src='/comics/d361-degree-of-fredoom-2021'
+          btnText='Read Comic'
+          color='blue'
+          source='Degree of Fredoom 2021'
+          author='Abhrant Panigrahi'
+          text='DOF'
+          year='2021'
+        />
+        <BookAnimation
           src='/comics/d361-capture-2020'
           btnText='Read Comic'
           color='blue'
