@@ -64,7 +64,10 @@ const Footer = () => {
           <a href='https://opencodenitr.herokuapp.com/' target='_blank' rel='noreferrer noopener'>
             OpenCode NITR
           </a>{' '}
-          | <Link href='/developersInfo'>DEVELOPERS INFO</Link>
+          |{' '}
+          <Link href='/developersInfo'>
+            <strong className='dev-info'>Developers Info</strong>
+          </Link>
         </p>
       </Container>
       <BackToTop onClick={scrollToTop} title='Go to top' className={isVisible ? '' : 'not-visible'}>

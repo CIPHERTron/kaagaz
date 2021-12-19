@@ -126,6 +126,14 @@ export const StyledFooterSection = styled.footer`
       margin-bottom: 15px;
     }
   }
+
+  .dev-info {
+    cursor: pointer;
+
+    &:hover {
+      color: #999999;
+    }
+  }
 `;
 
 export const BackToTop = styled.button`
