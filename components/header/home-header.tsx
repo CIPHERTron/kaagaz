@@ -22,8 +22,8 @@ const HomeHeader = () => {
             </Typist>
           </LandingHeading>
           <LandingImage href='/legacy'>
-            <DesktopIllustration src='/images/required/desktop-landing.png' />
-            <MobileIllustration src='/images/required/mobile-landing-2.png' />
+            <DesktopIllustration src='/images/required/hero-desktop.png' />
+            <MobileIllustration src='/images/required/hero-mobile.png' />
           </LandingImage>
         </LandingContainer>
       </Container>
