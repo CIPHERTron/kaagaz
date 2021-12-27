@@ -390,6 +390,13 @@ export const twentyone = [
     por: 'Design Team',
   },
   {
+    name: 'Rushali Kumari',
+    image:
+      'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1640531848/Team%202021-22/design/Rushali_Kumari_iep47g.jpg',
+    eb: false,
+    por: 'Design Team',
+  },
+  {
     name: 'Sai Sambhab Chaini',
     image:
       'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1639192877/Team%202021-22/content/Sai_Sambhab_Chaini_zzed5w.jpg',
