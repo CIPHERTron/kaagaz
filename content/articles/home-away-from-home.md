@@ -1,8 +1,8 @@
 ---
-title: Home Away from Home
-description: 'First things first, let's start with all three of you introducing yourselves. Hi, my name is Ramakant Sahu...'
+title: 'Home Away From Home'
+description: 'First things first, let us start with all three of you introducing yourselves...'
 previewImage: 'https://res.cloudinary.com/dzvmhmqr0/image/upload/v1642252974/Articles%20Cover%20Image/Home_away_from_Home_tw7z3q.png'
-content: 'Shiv, Subhamshree, Abhijeet'
+content: 'Shiv, Subhamshree and Abhijeet'
 design: 'Ashit'
 slug: 'home-away-from-home'
 category: misc
@@ -64,5 +64,5 @@ For the first time in your life you have some sort of complete freedom. So donâ€
 
 ---
 
-**_Content by Aalisha_**
-**_Design by Smithraj_**
+**_Content by Shiv, Subhamshree and Abhijeet_** <br>
+**_Design by Ashit_**
