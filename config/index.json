@@ -17,10 +17,10 @@
   "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   "recentArticles": [
     {
-      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019450/Articles%20Cover%20Image/Back_to_the_Past_Luggage_jiadsq.jpg",
-      "alt": "Luggage",
-      "title": "Luggage",
-      "link": "/articles/luggage"
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1642252974/Articles%20Cover%20Image/Home_away_from_Home_tw7z3q.png",
+      "alt": "Home Away from Home",
+      "title": "Home Away from Home",
+      "link": "/articles/home-away-from-home"
     },
     {
       "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019451/Articles%20Cover%20Image/Back_to_the_Past_Campus_ei5eck.jpg",
