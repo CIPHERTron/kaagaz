@@ -17,16 +17,16 @@
   "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   "recentArticles": [
     {
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1642861214/Articles%20Cover%20Image/the-circus_pwxttv.jpg",
+      "alt": "The Circus",
+      "title": "The Circus",
+      "link": "/articles/the-circus"
+    },
+    {
       "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1642252974/Articles%20Cover%20Image/Home_away_from_Home_tw7z3q.png",
       "alt": "Home Away From Home",
       "title": "Home Away From Home",
       "link": "/articles/home-away-from-home"
-    },
-    {
-      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019451/Articles%20Cover%20Image/Back_to_the_Past_Campus_ei5eck.jpg",
-      "alt": "Campus",
-      "title": "Campus",
-      "link": "/articles/campus"
     },
     {
       "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1634019453/Articles%20Cover%20Image/Back_to_the_Past_Academics_cxjax0.png",
