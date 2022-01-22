@@ -8,7 +8,7 @@ slug: 'the-circus'
 category: misc
 ---
 
-“Welcome, welcome to the _Circus of_ _\*\* , I hope you had a safe trip here.” You open your eyes to a dim, dark world, seems like everything around you is two shades darker than it should be and there’s not much color in sight. You’re talking to a thin, slender, and tall man, he’s sporting a thin, long mustache and is dressed in a three-piece suit with a grin that seems like it's filled with malice, _“a creepy guy”* you think to yourself. He beckons you to walk into the gate, into a wide area filled with various booths and tents. The man starts talking with a heavy-set, cold voice “Here at our humble abode we have nine major tents, each with their own class acts, sure to bring you much amusement. I don’t have much time to take you everywhere, but *I suppose you’ll like whatever I show you\*.”
+“Welcome, welcome to the _Circus of_ \*\*\* , I hope you had a safe trip here.” You open your eyes to a dim, dark world, seems like everything around you is two shades darker than it should be and there’s not much color in sight. You’re talking to a thin, slender, and tall man, he’s sporting a thin, long mustache and is dressed in a three-piece suit with a grin that seems like it's filled with malice, _“a creepy guy”_ you think to yourself. He beckons you to walk into the gate, into a wide area filled with various booths and tents. The man starts talking with a heavy-set, cold voice “Here at our humble abode we have nine major tents, each with their own class acts, sure to bring you much amusement. I don’t have much time to take you everywhere, but _I suppose you’ll like whatever I show you_.”
 
 The man leads you towards a black and white tent around two stories tall and plenty big, its looming shadow runs chills down your spine. As you enter the tent, you see it’s designed in a typical circus fashion, with the stands all around and a center stage taking the spotlight. Suddenly, music starts playing, a manic tune that creeps you out; you notice a small car coming to a halt right in the center of the stage as three clowns pop out of the car’s doors. “As you can see, we’re just in time to view the final rehearsal of the _funny_ show,” the man says as he gestures to the stage. “They’re not regular clowns,” you think to yourself as you notice how their white-painted faces have streaks of black tears rolling down them and they clasp their hands together as if they’re scared of something. “Why don’t lions eat clowns here at the _Circus of_ \*\*n!” one of them yells out, “because they taste funny!” the other replies excitedly, the show starts off with a few distasteful jokes and they then proceed to hop on unicycles and perform various stunts, all while reciting jokes that get darker and darker with every passing minute. “What’s the difference between a car and a dead body?” One of the clowns sneers at his companions. “I don’t have a car in my garage!” screams the other as both erupt into a fit of cackles. You get disturbed as the cackles don’t seem to stop until the third clown shrieks out phrases that only a demented person would say, these clowns weren’t just weird, they were troubled you think to yourself. The man suddenly gets up and proceeds to walk out of the tent, inviting you to follow him.
 
@@ -20,9 +20,9 @@ You then leave the tent along with the man, you feel numb after taking in all th
 
 You read the card, it says,
 
-**\*“Mr. Daemonium Lucifer,
+_**“Mr. Daemonium Lucifer,
 Ringmaster,
-Circus of Sin**”\*
+Circus of Sin**”_
 
 ---
 
