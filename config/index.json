@@ -17,10 +17,10 @@
   "lorem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   "recentArticles": [
     {
-      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1642861214/Articles%20Cover%20Image/the-circus_pwxttv.jpg",
-      "alt": "The Circus",
-      "title": "The Circus",
-      "link": "/articles/the-circus"
+      "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1643890129/Articles%20Cover%20Image/Danger_nob6xb.jpg",
+      "alt": "Danger",
+      "title": "Danger",
+      "link": "/articles/danger"
     },
     {
       "image": "https://res.cloudinary.com/dzvmhmqr0/image/upload/v1643638511/Articles%20Cover%20Image/Roses_are_Blood_Red_exmgia.jpg",
